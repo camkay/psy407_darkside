@@ -906,22 +906,22 @@ h1.title {
 }    
 
 h1, .h1 {
-    font-size: 30px;
-}
-h2, .h2 {
     font-size: 25px;
 }
-h3, .h3 {
+h2, .h2 {
     font-size: 20px;
 }
-h4, .h4 {
+h3, .h3 {
     font-size: 15px;
 }
-h5, .h5 {
+h4, .h4 {
     font-size: 10px;
 }
-h6, .h6 {
+h5, .h5 {
     font-size: 5px;
+}
+h6, .h6 {
+    font-size: 1px;
 }
 p {
     margin: 0 0 10.5px;
@@ -4031,7 +4031,7 @@ to {
     display: block;
     padding: 10px 15px;
     margin-bottom: -1px;
-    background-color: #222e36; /* TOC HIGHLIGHT COLOUR*/
+    background-color: #222e36; /* TOC BACKGROUND COLOUR*/
     border: 1px solid #000000;
 }
 .list-group-item:first-child {
@@ -5362,4 +5362,21 @@ a.list-group-item-danger.active:hover, a.list-group-item-danger.active:focus {
 }
 .popover {
     color: #333333;
+}
+
+/* MY CSS */
+.column-left{
+  float: left;
+  width: 33%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 33%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 33%;
+  text-align: left;
 }
