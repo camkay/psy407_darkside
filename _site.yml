@@ -1,0 +1,19 @@
+name: The Dark Side of Personality
+output_dir: "."
+navbar:
+  title: PSY407 - The Dark Side of Personality
+  right:
+  - text: Syllabus
+    icon: glyphicon-list-alt
+    href: index.html
+  - text: Schedule
+    icon: glyphicon-calendar
+    href: schedule.html
+  - text: GitHub
+    icon: fa-github
+    href: https://github.com/camkay/psy407_darkside
+output:
+  html_document:
+    css: custom.css
+    lib_dir: site_libs
+    self_contained: no
