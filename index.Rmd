@@ -11,10 +11,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-h1.title {
-  font-size: 38px;
-}
-
 # Hello
 ## Hello
 ### Hello
