@@ -1,5 +1,5 @@
 ---
-title: "Syllabus"
+title: "The Dark Side of Personality"
 output: 
   html_document:
     toc: TRUE
@@ -116,7 +116,7 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 
 I expect the average grade received for this course to be 77-83% with a standard deviation of 14. In order to avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades in order to conform to this distribution.
 
-# Course Policies
+# Course Policies and Acknowledgements
 
 ## Classroom Etiquette
 
@@ -144,3 +144,7 @@ If you require accommodations due to a documented disability, please contact me 
 ## Academic Integrity 
 
 Cheating or plagiarism will result in a grade of F for the course, and UO’s student conduct coordinator will be notified. Cheating includes, but is not necessarily limited to, providing or accepting information during tests. Plagiarism includes, but is not necessarily limited to, quoting or paraphrasing someone else’s ideas without acknowledging the source. If you are unsure of whether a certain behaviour counts as cheating or plagiarism, you should contact me (ckay@uoregon.edu) or the Office of the Dean of Students (phone: 541-346-3216; email: conduct@uoregon.edu).
+
+## Land Acknowledgement
+
+We acknowledge that the University of Oregon is situated on the ancestral territory of the Kalapuya people. We honour the traditional stewards of this land and pay respect to the elders, both past and present.
