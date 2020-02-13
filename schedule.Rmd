@@ -3,7 +3,7 @@ title: "Schedule"
 output: 
   html_document:
     toc: TRUE
-    toc_depth: 5
+    toc_depth: 1
     toc_float: TRUE
 ---
 
@@ -11,86 +11,55 @@ output:
 
 | Week | Date       | Topic                              | Assignments/Tests                                                    |
 |------|------------|------------------------------------|----------------------------------------------------------------------|
-| 1    | xx/xx/xxxx | Introduction to Personality        | Precourse Exercise (Completed in class)                              |
-| 2    | xx/xx/xxxx | Introduction to the Dark Tetrad I  | -                                                                    |
-| 3    | xx/xx/xxxx | Introduction to the Dark Tetrad II | -                                                                    |
-| 4    | xx/xx/xxxx | Evolution and Culture              | Dark Tetrad Scale Exercise (Upload to Canvas by Friday at 11:59pm).  |
-| 5    | xx/xx/xxxx | Interpersonal Relationships        | -                                                                    |
-| 6    | xx/xx/xxxx | Personality Disorders (PD)         | Midterm (Date: TBD)                                                  |
-| 7    | xx/xx/xxxx | Forensic Implications              | -                                                                    |
-| 8    | xx/xx/xxxx | Occupations                        | -                                                                    |
-| 9    | xx/xx/xxxx | Morality                           | -                                                                    |
-| 10   | xx/xx/xxxx | Internet Behaviour                 | Profile Paper (Upload to Canvas by Friday at 11:59pm).               |
+| 1    | 04/02/2020 | Introduction to Personality        | Precourse Exercise (Completed in class)                              |
+| 2    | 04/09/2020 | Introduction to the Dark Tetrad    | -                                                                    |
+| 3    | 04/16/2020 | Evolution                          | -                                                                    |
+| 4    | 04/23/2020 | Culture                            | -                                                                    |
+| 5    | 04/30/2020 | Interpersonal Relationships        | -                                                                    |
+| 6    | 05/07/2020 | Personality Disorders (PD)         | -                                                                    |
+| 7    | 05/14/2020 | Forensic Implications              | -                                                                    |
+| 8    | 05/21/2020 | Occupations                        | -                                                                    |
+| 9    | 05/28/2020 | Morality                           | -                                                                    |
+| 10   | 06/04/2020 | Internet Behaviour                 | Profile Paper (Upload to Canvas by Friday at 11:59pm).               |
 |      |            |                                    |                                                                      |
 
 # Readings
 
-## Week 1 (xx/xx/xxxx)
-* Canvas
+## Week 1 (04/02/2020): Introduction to Personality
   1. Allport, G. W. (1931). What is a trait of personality? The Journal of Abnormal and Social Psychology, 25(4), 368-372.
-  1. Furr, R. M. (2011). Scale construction and psychometrics for social and personality psychology (p. 4-15). Thousand Oaks, CA: Sage.
-  1. Robins, R. W., Tracy, J. L., & Sherman, J. W. (2016). What kinds of methods do personality psychologists use?: A survey of journal editors and editorial board members. UC Davis, p. 673-678.
   
-## Week 2 (xx/xx/xxxx)
-* Textbook
-  1. Lyons (2019), Ch. 1: 1.1-1.5
-  1. Lyons (2019), Ch. 1: 1.7-1.8
-* Canvas
-  1. Paulhus, D. L., & Williams, K. M. (2002). The Dark Triad of personality: Narcissism, Machiavellianism, and psychopathy. Journal of Research in Personality, 36(6), 556–563. https://doi.org/10.1016/S0092-6566(02)00505-6
-  2. Furnham, A., Richards, S. C., & Paulhus, D. L. (2013). The Dark Triad of Personality: A 10 Year Review. Social and Personality Psychology Compass, 3, 199–216. https://doi.org/10.1111/spc3.12018
-  
-## Week 3 (xx/xx/xxxx)
-* Textbook
-  1. Lyons (2019), Ch. 1: 1.6
-* Canvas
-  1. Christie, R., & Geis, F. L. (1970). Studies in Machiavellianism. New York: Academic Press, Inc.
-  1. Raskin, R. N., & Hall, C. S. (1979). A narcissistic personality inventory. Psychological Reports, 45, 590.
-  1. Lilienfeld, S. O., & Andrews, B. P. (1996). Development and preliminary validation of a self-report measure of psychopathic personality traits in noncriminal population. Journal of Personality Assessment, 66(3), 488–524.
+## Week 2 (04/09/2020): Introduction to the Dark Triad
+  1. Lyons (2019), Ch. 1
+  1. Furnham, A., Richards, S. C., & Paulhus, D. L. (2013). The Dark Triad of Personality: A 10 Year Review. Social and Personality Psychology Compass, 3, 199–216. https://doi.org/10.1111/spc3.12018
   1. Buckels, E. E., Jones, D. N., & Paulhus, D. L. (2013). Behavioral confirmation of everyday sadism. Psychological Science, 24(11), 2201–2209. https://doi.org/10.1177/0956797613490749
-
-## Week 4 (xx/xx/xxxx)
-* Textbook
-  1. Lyons (2019), Ch. 4
-* Canvas
-  1. Jonason, P. K., & Tost, J. (2010). I just cannot control myself: The Dark Triad and self-control. Personality and Individual Differences, 49(6), 611–615. https://doi.org/10.1016/j.paid.2010.05.031
-  1. Jonason, P. K., Sitnikova, M., & Oshio, A. (2018). The Dark Triad traits and views of time in three countries. Personality and Individual Differences, 120, 107–111.
-
-## Week 5 (xx/xx/xxxx)
-* Textbook
-  1. Lyons (2019), Ch. 5
-* Canvas
-  1. Brewer, G., Hunt, D., James, G., & Abell, L. (2015). Dark Triad traits, infidelity and romantic revenge. Personality and Individual Differences, 83, 122–127. https://doi.org/10.1016/j.paid.2015.04.007
-  1. Chin, K., Atkinson, B. E., Raheb, H., Harris, E., & Vernon, P. A. (2017). The dark side of romantic jealousy. Personality and Individual Differences, 115, 23–29. https://doi.org/10.1016/j.paid.2016.10.003
-  1. Jonason, P. K., & Schmitt, D. P. (2012). What have you done for me lately? Friendship-selection in the shadow of the dark triad traits. Evolutionary Psychology, 10(3), 400–421. https://doi.org/10.1177/147470491201000303
   
-## Week 6 (xx/xx/xxxx)
-* Textbook
+## Week 3 (04/16/2020): Evolution
+  1. Jonason, P. K., Webster, G. D., Schmitt, D. P., Li, N. P., & Crysel, L. C. (2012). The Antihero in popular culture: Life history theory and the Dark Triad personality traits, 16(2), 192–199. https://doi.org/10.1037/a0027914
+  1. Jonason, P. K., & Tost, J. (2010). I just cannot control myself: The Dark Triad and self-control. Personality and Individual Differences, 49(6), 611–615. https://doi.org/10.1016/j.paid.2010.05.031
+
+## Week 4 (04/23/2020): Culture
+  1. Jonason, P. K., Sitnikova, M., & Oshio, A. (2018). The Dark Triad traits and views of time in three countries. Personality and Individual Differences, 120, 107–111.
+  1. Jonason, P. K., Foster, J. D., Egorova, M. S., Parshikova, O., Csathó, Á., Oshio, A., & Gouveia, V. V. (2017). The Dark Triad traits from a life history perspective in six countries. Frontiers in Psychology, 8, 1–6. https://doi.org/10.3389/fpsyg.2017.01476
+
+## Week 5 (04/30/2020): Interpersonal Relationships
+  1. Jauk, E., Neubauer, A. C., Mairunteregger, T., Pemp, S., Sieber, K. P., & Rauthmann, J. F. (2016). How alluring are Dark Personalities? The Dark Triad and attractiveness in speed dating. European Journal of Personality, 30(2), 125–138. https://doi.org/10.1002/per.2040
+  1. Chin, K., Atkinson, B. E., Raheb, H., Harris, E., & Vernon, P. A. (2017). The dark side of romantic jealousy. Personality and Individual Differences, 115, 23–29. https://doi.org/10.1016/j.paid.2016.10.003
+  
+## Week 6 (05/07/2020): Personality Disorders
   1. Lyons (2019), Ch. 2
   
-## Week 7 (xx/xx/xxxx)
-* Textbook
-  + 1. Lyons (2019), Ch. 3
-* Canvas
+## Week 7 (05/14/2020): Forensic Implications
   1. Azizli, N., Atkinson, B. E., Baughman, H. M., Chin, K., Vernon, P. A., Harris, E., & Veselka, L. (2016). Lies and crimes: Dark Triad, misconduct, and high-stakes deception. Personality and Individual Differences, 89, 34–39. https://doi.org/10.1016/j.paid.2015.09.034
   1. Wright, J. P., Morgan, M. A., Almeida, P. R., Almosaed, N. F., Moghrabi, S. S., & Bashatah, F. S. (2017). Malevolent forces: Self-control, the Dark Triad, and crime. Youth Violence and Juvenile Justice, 15(2), 191–215. https://doi.org/10.1177/1541204016667995
   
-## Week 8 (xx/xx/xxxx)
-* Textbook
-  + 1. Lyons (2019), Ch. 6
-* Canvas
+## Week 8 (05/21/2020): Occupations
   1. O’Boyle, Ernest H., J., Forsyth, D. R., Banks, G. C., & McDaniel, M. A. (2012). A meta-analysis of the Dark Triad and work behavior: A social exchange perspective. Journal of Applied Psychology, 97(3), 557–579. https://doi.org/10.1037/a0025679
-  1. Nathanson, C., Paulhus, D. L., & Williams, K. M. (2006). Predictors of a behavioral measure of scholastic cheating: Personality and competence but not demographics. Contemporary Educational Psychology, 31(1), 97–122. https://doi.org/10.1016/j.cedpsych.2005.03.001
-  1. Williams, K. M., Nathanson, C., & Paulhus, D. L. (2010). Identifying and profiling scholastic cheaters: their personality, cognitive ability, and motivation. Journal of Experimental Psychology. Applied, 16(3), 293–307. https://doi.org/10.1037/a0020773
+  1. Williams, K. M., Nathanson, C., & Paulhus, D. L. (2010). Identifying and profiling scholastic cheaters: Their personality, cognitive ability, and motivation. Journal of Experimental Psychology. Applied, 16(3), 293–307. https://doi.org/10.1037/a0020773
 
-## Week 9 (xx/xx/xxxx)
-* Canvas
-  1. Wilson, C. (2004). Morality as a system of advantage-reducing imperatives. In moral animals: Ideals and constraints in moral theory (pp. 1–34). Oxford: Clarendon Press.
+## Week 9 (05/28/2020): Morality
   1. Bartels, D. M., & Pizarro, D. A. (2011). The mismeasure of morals: Antisocial personality traits predict utilitarian responses to moral dilemmas. Cognition, 121(1), 154–161.
   1. Rauthmann, J. F., & Kolar, G. P. (2012). How “dark” are the Dark Triad traits? Examining the perceived darkness of narcissism, Machiavellianism, and psychopathy. Personality and Individual Differences, 53(7), 884–889.
 
-## Week 10 (xx/xx/xxxx)
-* Textbook
-  1. Lyons (2019), Ch. 7
-* Canvas
+## Week 10 (06/04/2020): Internet Behavior
   1. McCain, J. L., Borg, Z. G., Rothenberg, A. H., Churillo, K. M., Weiler, P., & Campbell, W. K. (2016). Personality and selfies: Narcissism and the Dark Triad. Computers in Human Behavior, 64, 126–133. https://doi.org/10.1016/j.chb.2016.06.050
-  1. Sest, N., & March, E. (2017). Constructing the cyber-troll: Psychopathy, sadism, and empathy. Personality and Individual Differences, 119, 69–72. https://doi.org/10.1016/j.paid.2017.06.038
+  1. Duncan, Z., & March, E. (2019). Using Tinder® to start a fire: Predicting antisocial use of Tinder® with gender and the Dark Tetrad. Personality and Individual Differences, 145(November 2018), 9–14. https://doi.org/10.1016/j.paid.2019.03.014

@@ -1,7 +1,7 @@
 name: The Dark Side of Personality
 output_dir: "."
 navbar:
-  title: PSY407 - The Dark Side of Personality
+  title: PSY407
   right:
   - text: Syllabus
     icon: glyphicon-list-alt
