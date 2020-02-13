@@ -8,6 +8,8 @@ output:
     number_sections: TRUE
 ---
 
+***
+
 <div class="column-left">
 **Instructor** 
 
@@ -40,13 +42,19 @@ Time: Thursdays 10:00-11:50am
 
 </div>
 
+***
+
 # Course Description
 
 This course aims to complement existing courses on personality by taking an in-depth look at a number of ostensibly negative personality traits. The course does not assume that these traits are universally negative; it just assumes that these traits are aversive when found in most contemporary contexts. The first half of the course will be spent exploring Machiavellianism, narcissism, psychopathy, and sadism. We will discuss these traits in terms of their history, structure, and measurement, as well as potential causes. The second half of the course will be dedicated to discussing negative personality traits with respect to personality disorders, criminality, the workplace, morality, and social media use. 
 
+<br />
+
 # Course Format
 
 I will lecture for the first portion of class time each week. This is in order to provide a foundation for a discussion of the readings, which will occur during the second half of class time each week. Time permitting, I will also periodically bring in copies of posters I’ve come across at conferences. We will discuss the findings of the posters in light of the week’s readings. 
+
+<br />
 
 # Learning Objectives
 
@@ -58,9 +66,13 @@ I will lecture for the first portion of class time each week. This is in order t
 * Apply an understanding of the traits to relationship and occupational contexts.
 * Develop skills in consuming and critically evaluating research and measurement methods that can be applied to topics beyond the scope of the course.
 
+<br />
+
 # Estimated Student Workload
 
 According to federal policy, a single course credit is equivalent to 30 hours of real student work. This includes (a) time spent physically in the classroom and (b) time spent outside of the classroom working on classwork. A two-credit course, such as this, expects 60 hours of real student work, with 20 of those hours spent in the classroom and 40 of those hours spent working outside of the classroom. Over the current course, it is expected that you will spend 20 hours in the classroom, including the time spent listening to lectures, discussing the readings, and doing various exercises assessment. Outside of the classroom, it is expected that you will spend approximately 30 hours reading course materials and preparing reading responses (3/hr per week) and 10 hours writing the profile paper.
+
+<br />
 
 # Assignments and Engagement
 
@@ -89,16 +101,16 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 + Percent of total grade: 30.00%
 + Due: Uploaded to Canvas by 5:00pm every Wednesday.
 + Requirements: Before each class, students will submit responses to the readings provided on Canvas. The purpose of the responses is to prepare students for a productive discussion during class. The responses are evaluated on the basis of perceived effort and thoroughness. The responses **will not** be evaluated on the basis of spelling, grammar, and compositional structure, as long as they are generally understandable (i.e., I can't grade something I can't understand). I advise you to aim for about one page of writing. The responses should not merely be summaries of the papers, nor should they rely on long quotes.
-
-*Note.* This description was largely cribbed from a syllabus written by Rob Chavez and David Condon (2020) at the University of Oregon. 
++ *Note.* This description was largely cribbed from a syllabus written by Rob Chavez and David Condon (2020) at the University of Oregon. 
 
 ## Profile Paper
 
 + Percent of total grade: 40.00%
 + Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (06/05/2020).
 + Requirements: The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain or an antihero to ensure that your character of interest exhibits negative personality traits. The paper is to be 8-12 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins. You must include at least 10 references to peer-reviewed journal articles.
++ *Note.* This assignment was inspired by a similar assignment designed by Sunaina Assanand (2017) at the University of British Columbia.
 
-*Note.* This assignment was inspired by a similar assignment designed by Sunaina Assanand (2017) at the University of British Columbia.
+<br />
 
 # Percentage to Letter Grades
 
@@ -110,6 +122,8 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 |        |         |        |         |        |         |        |         |        |         |
 
 I expect the average grade received for this course to be ~83% with a standard deviation of 10. In order to avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades in order to conform to this distribution.
+
+<br />
 
 # Course Policies and Acknowledgements
 
