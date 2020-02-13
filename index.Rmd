@@ -15,97 +15,92 @@ Name: Cameron S. Kay
 
 Email: ckay@uoregon.edu
 
-Office Hours: ??? 
+Office Hours: By appointment
+
+</div>
+
+<div class="column-right">
+
+**Class Materials** 
+
+All required readings will be posted to the Modules tab on [canvas](www.canvas.com).   
+    
 
 </div>
 
 <div class="column-center">
 
-**Class Materials** 
-
-Course Textbook: Lyons, M. (2019). The Dark Triad of Personality.
-
-Other required readings will be posted to the Modules tab on [canvas](www.canvas.com). 
-
-</div>
-
-<div class="column-left">
-
 **Class Information**
 
-Term: Spring, 2019
+Term: Spring, 2020
 
-Location: ???
+Location: 257 Straub Hall
 
-Time: ??? 
+Time: Thursdays 10:00-11:50am 
 
 </div>
 
 # Course Description
 
-This course aims to complement existing courses on personality by taking an in-depth look at a number of stereotypically negative personality traits. The course does not assume that these traits are universally negative; it just assumes that these traits are negative when found in most contemporary contexts. The first half of the course will be spent exploring Machiavellianism, narcissism, psychopathy, and sadism. We will discuss these traits in terms of their history, structure, and measurement, as well as potential causes. The second half of the course will be dedicated to discussing negative personality traits with respect to personality disorders, criminality, the workplace, morality, and social media use. 
+This course aims to complement existing courses on personality by taking an in-depth look at a number of ostensibly negative personality traits. The course does not assume that these traits are universally negative; it just assumes that these traits are aversive when found in most contemporary contexts. The first half of the course will be spent exploring Machiavellianism, narcissism, psychopathy, and sadism. We will discuss these traits in terms of their history, structure, and measurement, as well as potential causes. The second half of the course will be dedicated to discussing negative personality traits with respect to personality disorders, criminality, the workplace, morality, and social media use. 
 
 # Course Format
 
-I will lecture for the first half of class time each week. This is in order to provide a foundation for a discussion of the readings, which will occur during the second half of class time each week. Time permitting, I will also periodically bring in copies of posters I’ve come across at conferences. We will discuss the findings of the posters in light of the week’s readings. 
+I will lecture for the first portion of class time each week. This is in order to provide a foundation for a discussion of the readings, which will occur during the second half of class time each week. Time permitting, I will also periodically bring in copies of posters I’ve come across at conferences. We will discuss the findings of the posters in light of the week’s readings. 
 
 # Learning Objectives
 
-* Identify and describe negative personality traits at the level of the concept, sub-construct, and  construct. 
-* Evaluate the strengths and weaknesses of the personality constructs and their respective methods of measurement.
+* Identify and describe negative personality traits at the level of the concept, construct, and subconstruct.
 * Explore the relationship among the traits.
 * Describe competing theories for the presence of these traits in humans.
 * Distinguish between subclinical and clinical variations of these traits.
 * Examine the relationship between morality and each of the traits. 
 * Apply an understanding of the traits to relationship and occupational contexts.
-* Develop skills in consuming and critically evaluating research and measurement methods that can be applied to subjects not central to the current course.
+* Develop skills in consuming and critically evaluating research and measurement methods that can be applied to topics beyond the scope of the course.
 
 # Estimated Student Workload
 
-According to federal policy, a single course credit is equivalent to 30 hours of real student work. This includes (a) time spent physically in the classroom and (b) time spent outside of the classroom working on classwork. A three-credit course, such as this, expects 90 hours of real student work, with 30 of those hours spent in the classroom and 60 of those hours spent working outside of the classroom. Over the current course, it is expected that you will spend 30 hours in the classroom, including the time spent listening to lectures, discussing the readings, and doing the precourse assessment. Outside of the classroom, it is expected that you will spend approximately 30 hours reading course materials (3 hours per week for 10 weeks) and 30 hours completing course exercises, studying for the midterm test, and writing the final paper. 
+According to federal policy, a single course credit is equivalent to 30 hours of real student work. This includes (a) time spent physically in the classroom and (b) time spent outside of the classroom working on classwork. A two-credit course, such as this, expects 60 hours of real student work, with 20 of those hours spent in the classroom and 40 of those hours spent working outside of the classroom. Over the current course, it is expected that you will spend 20 hours in the classroom, including the time spent listening to lectures, discussing the readings, and doing various exercises assessment. Outside of the classroom, it is expected that you will spend approximately 30 hours reading course materials and preparing reading responses (3/hr per week) and 10 hours writing the profile paper.
 
 # Assignments and Engagement
 
 | Component                     | Percent of Grade       | Date Due                                                          |
 |-------------------------------|------------------------|-------------------------------------------------------------------|
-| Attendance and Participation  | 15%                    | Assessed throughout the course.                                   |
-| Precourse Exercise            | 5%                     | Completed at the end of the first class (xxx/xx/xxxx).            |
-| Dark Tetrad Scale Exercise    | 20%                    | Uploaded to Canvas by 11:59pm on Friday of Week 4 (xxx/xx/xxxx).  |
-| Midterm Test                  | 30%                    | First class period of Week 6 (xxx/xx/xxxx).                       |
-| Profile Paper                 | 30%                    | Uploaded to Canvas by 11:59pm on Friday of Week 10 (xxx/xx/xxxx). |
+| Precourse Exercise            | 5%                     | Completed by the end of the first class (04/02/2020).             |
+| Attendance and Participation  | 25%                    | Assessed throughout the course.                                   |
+| Reading Responses             | 30%                    | Uploaded to Canvas by 5:00pm every Wednesday.                     |
+| Profile Paper                 | 40%                    | Uploaded to Canvas by 11:59pm on Friday of Week 10 (06/05/2020).  |
 |                               |                        |                                                                   |
-
-## Attendance and Participation
-
-+ Percent of total grade: 15.00%
-+ Due: Assessed throughout the course.
-+ Requirements: Students are expected to attend every class and to participate regularly. It is necessary to have read all assigned readings to successfully participate in discussions. If a student notifies the instructor of an absence prior to the class session and participates frequently in class discussions, students may miss up to 10% of the class meetings without negatively impacting their score.
 
 ## Precourse Exercise
 
 + Percent of total grade: 5.00%
-+ Due: Completed at the end of the first class (xxx/xx/xxxx).
-+ Requirements: The Precourse Exercise assesses your preconceptions regarding the content to be covered in the course. It will be graded on a “pass versus no-pass” basis. For students joining the class after the first day, send me an email before the end of the second week of classes. You will be given an alternative exercise of comparable length to the precourse exercise.  
++ Due: Completed at the end of the first class (04/02/2020).
++ Requirements: The *Precourse Exercise* assesses your preconceptions regarding the content to be covered in the course. It will be graded on a “pass versus no-pass” basis. For students joining the class after the first day, send me an email before the end of the second week of classes. You will be given an alternative exercise of comparable length to the precourse exercise.
 
-## The Dark Tetrad Scale Exercise
+## Attendance and Participation
 
-+ Percent of total grade: 20.00%
-+ Due: Uploaded to Canvas by 11:59pm on Friday of Week 4 (xxx/xx/xxxx).
-+ Requirements: The Dark Tetrad Scale Exercise aims to assess your understanding of the Dark Triad and its various components. You will be required to design a 40-item Dark Tetrad scale (one item for each of its components) and provide a brief explanation (i.e., one to two sentence) of why you chose to include each item. A template for this assignment can be found on Canvas.
++ Percent of total grade: 25.00%
++ Due: Assessed throughout the course.
++ Requirements: Students are expected to attend every class and to participate regularly. It is necessary to have read all assigned readings to successfully participate in discussions. If a student notifies the instructor of an absence prior to the class session and participates frequently in class discussions, students may miss up to 10% of the class meetings without negatively impacting their score.
 
-## Midterm Test
+## Reading Responses
+
 + Percent of total grade: 30.00%
-+ Due: First class period of Week 6 (xxx/xx/xxxx).
-+ Requirements: The midterm for this course will draw on the material covered in Weeks 1 through 5. It will comprise approximately 50 multiple-choice/short-answer questions. The short-answer questions will require, at maximum, a 1-sentence response. 
++ Due: Uploaded to Canvas by 5:00pm every Wednesday.
++ Requirements: Before each class, students will submit responses to the readings provided on Canvas. The purpose of the responses is to prepare students for a productive discussion during class. The responses are evaluated on the basis of perceived effort and thoroughness. The responses **will not** be evaluated on the basis of spelling, grammar, and compositional structure, as long as they are generally understandable (i.e., I can't grade something I can't understand). I advise you to aim for about one page of writing. The responses should not merely be summaries of the papers, nor should they rely on long quotes.
+
+*Note.* This description was largely cribbed from a syllabus written by Rob Chavez and David Condon (2020) at the University of Oregon. 
 
 ## Profile Paper
 
-+ Percent of total grade: 30.00%
-+ Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (xxx/xx/xxxx). 
-+ Requirements: The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain or an antihero to ensure that your character of interest exhibits negative personality traits. The paper is to be 8-12 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins.
++ Percent of total grade: 40.00%
++ Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (06/05/2020).
++ Requirements: The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain or an antihero to ensure that your character of interest exhibits negative personality traits. The paper is to be 8-12 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins. You must include at least 10 references to peer-reviewed journal articles.
+
+*Note.* This assignment was inspired by a similar assignment designed by Sunaina Assanand (2017) at the University of British Columbia.
 
 # Percentage to Letter Grades
-
 
 | Letter | Percent | Letter | Percent | Letter | Percent | Letter | Percent | Letter | Percent |
 |--------|---------|--------|---------|--------|---------|--------|---------|--------|---------|
@@ -114,7 +109,7 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 | A-     | 90-92%  | B-     | 80-82%  | C-     | 70-72%  | D-     | 60-62%  | N*     | <  70%  |
 |        |         |        |         |        |         |        |         |        |         |
 
-I expect the average grade received for this course to be 77-83% with a standard deviation of 14. In order to avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades in order to conform to this distribution.
+I expect the average grade received for this course to be ~83% with a standard deviation of 10. In order to avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades in order to conform to this distribution.
 
 # Course Policies and Acknowledgements
 
@@ -124,14 +119,15 @@ I ask that you help foster a classroom that is free from distractions, respectfu
 
 ## Technology Use
 
-Note-taking by hand, even for those who do not have a diagnosed learning disability, can often be difficult for students who write slower than their peers. Laptops and cellphones can also be a helpful way to organize your thoughts and to look-up course concepts. I do allow the use of laptops in the classroom, but users of these devices should sit at the ends of rows or at the back of the classroom to avoid the bright screens distracting other students. I do also reserve the right to prohibit laptop and cellphone use for anyone who distracts other students. Laptops, cellphones, and other electronic devices will not be allowed during the midterm test. 
+Note-taking by hand, even for those who do not have a diagnosed learning disability, can often be difficult for students who write slower than their peers. Laptops and cellphones can also be a helpful way to organize your thoughts and to look-up course concepts. I do allow the use of cellphones and laptops in the classroom, but users of these devices should sit near the walls so as to avoid the bright screens distracting other students. I do also reserve the right to prohibit laptop and cellphone use for anyone who distracts other students.
 
 ## Reading policy
 
-You are required to do all of the assigned readings prior to class time. Failure to do so will not be assessed directly but will be assessed indirectly through your participation and midterm grade.
+You are required to do all of the assigned readings prior to class time. Failure to do so will not be assessed directly but will be assessed indirectly through your participation and reading response grades.
 	
 ## Late Assignments 
-Late exercises and papers will be docked 10% for each day that they are late. This means, if you turn in the profile paper two days late, you would receive a maximum of 80% for your work. Students may request extensions, but these requests are unlikely to be successful. 
+
+Late exercises and papers will be docked 20% for each day that they are late. This means, if you turn in the profile paper two days late, you would receive a maximum of 60% for your work. Students may request extensions, but these requests are unlikely to be successful. 
 
 ## Email Policy
 
