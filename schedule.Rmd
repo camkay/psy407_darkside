@@ -9,28 +9,28 @@ output:
 
 ***
 
-# Topics and Due Dates
+# Topics
 
-| Week | Date       | Topic                              | Assignments/Tests                                                    |
-|------|------------|------------------------------------|----------------------------------------------------------------------|
-| 1    | 04/02/2020 | Introduction to Personality        | Precourse Exercise (Completed on Canvas)                             |
-| 2    | 04/09/2020 | Introduction to the Dark Tetrad    | -                                                                    |
-| 3    | 04/16/2020 | Evolution                          | -                                                                    |
-| 4    | 04/23/2020 | Culture                            | -                                                                    |
-| 5    | 04/30/2020 | Interpersonal Relationships        | -                                                                    |
-| 6    | 05/07/2020 | Personality Disorders (PD)         | -                                                                    |
-| 7    | 05/14/2020 | Forensic Implications              | -                                                                    |
-| 8    | 05/21/2020 | Occupations                        | -                                                                    |
-| 9    | 05/28/2020 | Morality                           | -                                                                    |
-| 10   | 06/04/2020 | Internet Behaviour                 | Profile Paper (Upload to Canvas by Friday at 11:59pm).               |
-|      |            |                                    |                                                                      |
+| Week | Date       | Topic                              |
+|------|------------|------------------------------------|
+| 1    | 04/02/2020 | Introduction to Personality        |
+| 2    | 04/09/2020 | Introduction to the Dark Tetrad    |
+| 3    | 04/16/2020 | Measurement                        |
+| 4    | 04/23/2020 | Evolution                          |
+| 5    | 04/30/2020 | Interpersonal Relationships        |
+| 6    | 05/07/2020 | Personality Disorders (PD)         |
+| 7    | 05/14/2020 | Forensic Implications              |
+| 8    | 05/21/2020 | Occupations                        |
+| 9    | 05/28/2020 | Morality                           |
+| 10   | 06/04/2020 | Internet Behaviour                 |
+|      |            |                                    |
 
 # Readings
 
 ## Week 1 (04/02/2020): Introduction to Personality
   1. Allport, G. W. (1931). What is a trait of personality? *The Journal of Abnormal and Social Psychology*, 25(4), 368-372.
   
-## Week 2 (04/09/2020): Introduction to the Dark Triad
+## Week 2 (04/09/2020): Introduction to the Dark Tetrad
   1. Furnham, A., Richards, S. C., & Paulhus, D. L. (2013). The Dark Triad of Personality: A 10 Year Review. *Social and Personality Psychology Compass*, 3, 199–216. 
   1. Buckels, E. E., Jones, D. N., & Paulhus, D. L. (2013). Behavioral confirmation of everyday sadism. *Psychological Science*, 24(11), 2201–2209.
 
@@ -46,7 +46,7 @@ output:
   1. Jonason, P. K., Lyons, M., & Blanchard, A. (2015). Birds of a “bad” feather flock together: The Dark Triad and mate choice. *Personality and Individual Differences*, 78, 34–38.
   1. Jonason, P. K., & Schmitt, D. P. (2012). What have you done for me lately? Friendship-selection in the shadow of the dark triad traits. *Evolutionary Psychology*, 10(3), 400–421.
   
-## Week 6 (05/07/2020): Personality Disorders
+## Week 6 (05/07/2020): Personality Disorders (PD)
   1. Grigoras, M., & Wille, B. (2017). Shedding light on the dark side: Associations between the Dark Triad and the DSM-5 maladaptive trait model. *Personality and Individual Differences*, 104, 516–521.
   
 ## Week 7 (05/14/2020): Forensic Implications
@@ -61,6 +61,6 @@ output:
   1. Bartels, D. M., & Pizarro, D. A. (2011). The mismeasure of morals: Antisocial personality traits predict utilitarian responses to moral dilemmas. *Cognition*, 121(1), 154–161.
   1. Rauthmann, J. F., & Kolar, G. P. (2012). How “dark” are the Dark Triad traits? Examining the perceived darkness of narcissism, Machiavellianism, and psychopathy. *Personality and Individual Differences*, 53(7), 884–889.
 
-## Week 10 (06/04/2020): Internet Behavior
+## Week 10 (06/04/2020): Internet Behaviours
   1. McCain, J. L., Borg, Z. G., Rothenberg, A. H., Churillo, K. M., Weiler, P., & Campbell, W. K. (2016). Personality and selfies: Narcissism and the Dark Triad. *Computers in Human Behavior*, 64, 126–133.
   1. Duncan, Z., & March, E. (2019). Using Tinder® to start a fire: Predicting antisocial use of Tinder® with gender and the Dark Tetrad. *Personality and Individual Differences*, 145, 9–14.
