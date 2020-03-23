@@ -50,7 +50,7 @@ Time: Asynchronous
 
 # Course Description
 
-This course aims to complement existing courses on personality by taking an in-depth look at a number of ostensibly negative personality traits. The first half of the course will be spent exploring Machiavellianism, narcissism, psychopathy, and sadism. We will discuss these traits in terms of their history, structure, measurement, and potential etiology. The second half of the course will be dedicated to examining negative personality traits with respect to personality disorders, criminality, the workplace, morality, and internet behaviours. This course is not intended as a comprehensive review of negative personality traits. Rather, I have chosen papers that I believe provide an accesible introduction to the respective topics. Hopefully, they will inspire you to engage in future self-directed study.  
+This course aims to complement existing courses on personality by taking an in-depth look at a number of ostensibly negative personality traits. The first half of the course will be spent exploring Machiavellianism, narcissism, psychopathy, and sadism. We will discuss these traits in terms of their history, structure, measurement, and potential etiology. The second half of the course will be dedicated to examining negative personality traits with respect to personality disorders, criminality, the workplace, morality, and internet behaviours. This course is not intended as a comprehensive review of negative personality traits. Rather, I have chosen papers that I believe provide an accessible introduction to the respective topics. Hopefully, they will inspire you to engage in future self-directed study.  
 
 <br />
 
@@ -58,14 +58,20 @@ This course aims to complement existing courses on personality by taking an in-d
 
 Because of COVID-19, we will, unfortunately, be unable to meet for in-person discussions. Although this is unfortunate, it is, without a doubt, the correct decision. 
 
-I've reworked the course format to hopefully make the switch as minimally disruptive to the stated objectives of the course as possible. The general structure of the course is now as follows. Every Wednesday by 5:00 pm, I would like you to post a [Reading Response](#rr) to Canvas. The [Reading Responses](#rr) will be posted to a Canvas Discussion Board and will be viewable by other students in the class. Every Thursday, I will post a recorded lecture to Canvas to provide background on the readings. Between the lecture being posted on Thursday and Sunday at 5:00pm, you will have to [participate](#participation) in an online discussion by commenting on the [Reading Responses](#rr) of at least two other students.
+I've reworked the course format to hopefully make the switch as minimally disruptive to the stated objectives of the course as possible. The restructured course is now as follows:
 
+* By the end of the first week (Sunday, April 4th, at 11:59 pm), I will ask you to complete a [precourse exercise](#pce) on Canvas. The [precourse exercise](#pce) assesses your familiarity with the topics to be covered in the course and assesses certain aspects of your psychological and behavioural profiles.    
+* Every Wednesday by 5:00 pm, I would like you to post a [reading response](#rr) responding to one of the week's readings on Canvas Discussions.
+* Every Thursday, I will post a recorded lecture to Canvas to provide background on the readings and a summary of the current state of the field.
+* Between the lecture being posted on Thursday and Sunday at 5:00 pm, you will have to [participate](#participation) in an online discussion by commenting on the [reading response](#rr) of at least one other student on Canvas Discussions.
+* By 11:59 pm on Friday of Week 10, you will upload a [profile paper](#pp) to Canvas. 
+  
 <br />
 
 # Learning Objectives
 
 * Identify and describe negative personality traits at the level of the concept, construct, and subconstruct.
-* Explore the relationship among the traits.
+* Explore relations among the traits.
 * Describe a current theory for the presence of these traits in humans.
 * Distinguish between subclinical and clinical variations of these traits.
 * Examine the relationship between morality and each of the traits. 
@@ -76,7 +82,7 @@ I've reworked the course format to hopefully make the switch as minimally disrup
 
 # Estimated Student Workload
 
-According to federal policy, a single course credit is equivalent to 30 hours of real student work. This includes (a) time spent physically in the classroom and (b) time spent outside of the classroom working on classwork. A two-credit course, such as this, expects 60 hours of real student work with 20 of those hours spent in the classroom and 40 of those hours spent working outside of the classroom. We will, however, not be meeting in-person this term. One solution would be to increase the number of readings and assignments to make-up the difference. A second solution (and the solution I've decided to go with) is to simply encourage you to spend more time with the readings and the assignments than you would have otherwise. Over the current course, it is expected that you will spend approximately 50 hours reading course materials, preparing reading responses, and commenting on reading responses (5/hr per week) and 10 hours writing the profile paper.
+According to federal policy, a single course credit is equivalent to 30 hours of real student work. This includes (a) time spent physically in the classroom and (b) time spent outside of the classroom working on classwork. A two-credit course, such as this, expects 60 hours of real student work with 20 of those hours spent in the classroom and 40 of those hours spent working outside of the classroom. We will, however, not be meeting in-person this term. One solution would be to increase the number of readings and assignments to make up the difference. A second solution (and the solution I've chosen to go with) is to simply encourage you to spend more time with the readings and the assignments than you would have otherwise. Over the current course, it is expected that you will spend approximately 10 hours listening to lectures; 40 hours reading course materials, preparing reading responses, and commenting on reading responses (5/hr per week); and 10 hours writing the profile paper.
 
 <br />
 
@@ -84,37 +90,37 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 
 | Component                                 | Percent of Grade       | Date Due                                                          |
 |-------------------------------------------|------------------------|-------------------------------------------------------------------|
-| Precourse Exercise                        | 5%                     | Completed by Sunday of Week 1 (04/04/2020).                        |
+| Precourse Exercise                        | 6%                     | Completed by 11:59 pm on Sunday of Week 1 (04/04/2020).            |
 | Reading Responses                         | 36%                    | Posted to Canvas Discussions by 5:00 pm every Wednesday.          |
-| Participation (Reading Response Comments) | 27%                    | Posted to Canvas Discussions by 5:00 pm every Sunday.             |
-| Profile Paper                             | 32%                    | Uploaded to Canvas by 11:59pm on Friday of Week 10 (06/05/2020).  |
+| Participation (Reading Response Comment)  | 18%                    | Posted to Canvas Discussions by 5:00 pm every Sunday.             |
+| Profile Paper                             | 40%                    | Uploaded to Canvas by 11:59 pm on Friday of Week 10 (06/05/2020).  |
 |                                           |                        |                                                                   |
 
-## Precourse Exercise
+## Precourse Exercise {#pce}
 
-+ Percent of total grade: 5.00%
++ Percent of total grade: 6.00%
 + Due: Completed by Sunday of Week 1 (04/04/2020).
-+ Requirements: The *Precourse Exercise* assesses your preconceptions regarding the content to be covered in the course. It will also contain scales measuring aspects of your personality and behavioural tendencies. This data may be presented to the rest of the class to illustrate key course concepts. The data will be collected using an anonymous link so that I (and the rest of the class) will be unable to link your answers to you. Still, you are free to skip any question that makes you feel uncomfortable. The survey will be graded on a “pass versus no-pass” basis.
-+ *Note.* For students joining the class after the first day, send me an email before the end of the second week of classes. You will be given an alternative exercise of comparable length to the precourse exercise.
++ Requirements: The *Precourse Exercise* assesses your preconceptions regarding the content to be covered in the course. It will also contain scales measuring aspects of your personality and behavioural tendencies. This data may be presented to the rest of the class to illustrate key course concepts. The data will be collected using an anonymous link so that I (and the rest of the class) will be unable to link your answers to you. Still, you are free to skip any question that makes you feel uncomfortable. I will grade the survey on a “pass versus no-pass” basis.
++ *Note.* For students joining the class after Sunday of Week 1, send me an email before the end of the second week of classes. I will assign you an alternative exercise of comparable length to the precourse exercise.
 
 ## Reading Responses {#rr}
 
 + Percent of total grade: 36.00%
 + Due: Uploaded to Canvas by 5:00 pm every Wednesday.
-+ Requirements: The night before each class, students will submit responses to the readings on Canvas Discussions. These reading responses will be viewable by other students in the class. The purpose of the responses is to prepare students for a productive discussion on Canvas. You are free to comment on any aspects of the papers you wish: You could discuss an idea you think is important, you could critique an idea that you think is questionable, or you could include an anecdote that relates to a finding. It is completely up to you! The responses are evaluated on the basis of perceived effort and thoroughness. The responses **will not** be evaluated on the basis of spelling, grammar, and compositional structure, as long as they are generally understandable (i.e., I can't grade something I can't understand). The responses should not merely be summaries of the papers, nor should they rely on long quotes. I advise you to aim for a total of 300 words to respond to all of the assigned readings.
++ Requirements: The night before each class, students will submit responses to one of the assigned readings on Canvas Discussions. These reading responses will be viewable by other students in the class. The purpose of the responses is to prepare students for a productive discussion on Canvas. You are free to comment on any aspects of the paper you wish: You could discuss an idea you think is important, critique an idea that you think is questionable, or include an anecdote that relates to a finding. It is completely up to you! The responses are evaluated on the basis of perceived effort and thoroughness. The responses **will not** be evaluated on the basis of spelling, grammar, and compositional structure, as long as they are generally understandable (i.e., I can't grade something I can't understand). The responses should not merely be summaries of the papers, nor should they rely on long quotes. I advise you to aim for a total of about 150 words.
 
 ## Participation {#participation}
 
-+ Percent of total grade: 27.00%
++ Percent of total grade: 18.00%
 + Due: Posted on Canvas by 5:00 pm every Wednesday. 
-+ Requirements: At any time between the lecture video being posted on Thursday and Sunday at 5:00pm, students should log onto Canvas and comment on the [Reading Response](#rr) of at least two other students (although, you are certainly welcome to comment on more than two). These comments must be substantive (i.e., you must critically engage with the responses using knowledge gained through the given week's readings and the lecture). As with the [Reading Responses](#rr), these comments will be graded on the basis of perceived effort and thorougness. I would aim for around 60-100 words per comment. 
-+ *Note.* Making your writing public---especially on a topic that you may not be familiar with---can be daunting. These comments are meant to help us learn from eachother. If I feel your comment is negative or innappropriate, I will delete the comment and you will receive a score of zero for the assignment. Constructive feedback is okay, but remember that we are all still learning. 
++ Requirements: At any time between the lecture video being posted on Thursday and Sunday at 5:00 pm, students should log onto Canvas and comment on the [reading response](#rr) of at least one other student (although you are certainly welcome to comment on more than one). This comment must be substantive (i.e., you must critically engage with the response using knowledge gained through the given week's readings and the lecture). As with the [reading responses](#rr), I will grade the comments on the basis of perceived effort and thoroughness. I would aim for around 50-75 words. 
++ *Note.* Making your writing public---especially on a topic that you may not be familiar with---can be daunting. These comments are meant to help us learn from each other. If I feel your comment is negative or inappropriate, I will delete it and assign you a score of zero for the week. Constructive feedback is okay, but remember that we are all still learning. 
 
-## Profile Paper
+## Profile Paper {#pp}
 
-+ Percent of total grade: 32.00%
++ Percent of total grade: 40.00%
 + Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (06/05/2020).
-+ Requirements: The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain or an antihero to ensure that your character of interest exhibits negative personality traits. The paper is to be 10-12 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins. You must include at least 8 references to peer-reviewed journal articles.
++ Requirements: The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain or an antihero to ensure that your character of interest exhibits negative personality traits. The paper is to be 10-14 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins. You must include at least 8 references to peer-reviewed journal articles.
 + *Note.* This assignment was inspired by a similar assignment designed by Sunaina Assanand (2017) at the University of British Columbia.
 
 <br />
@@ -128,7 +134,15 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 | A-     | 90-92%  | B-     | 80-82%  | C-     | 70-72%  | D-     | 60-62%  | N*     | <  70%  |
 |        |         |        |         |        |         |        |         |        |         |
 
-I expect the average grade received for this course to be ~83% with a standard deviation of 10. In order to avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades in order to conform to this distribution.
+I expect the average grade received for this course to be ~85% with a standard deviation of 5. To avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades to conform to this distribution.
+
+<!--
+```{r}
+set.seed(1)
+
+hist(rnorm(20, 85, 8), breaks = seq(60, 110, 3))
+```
+-->
 
 <br />
 
@@ -141,12 +155,12 @@ I ask that you help foster a (virtual) classroom that is free from distractions,
 <!--
 ## Technology Use
 
-Note-taking by hand, even for those who do not have a diagnosed learning disability, can often be difficult for students who write slower than their peers. Laptops and cellphones can also be a helpful way to organize your thoughts and to look-up course concepts. I do allow the use of cellphones and laptops in the classroom, but users of these devices should sit near the walls so as to avoid the bright screens distracting other students. I do also reserve the right to prohibit laptop and cellphone use for anyone who distracts other students.
+Note-taking by hand---even for those who do not have a diagnosed learning disability---can often be difficult for students who write slower than their peers. Laptops and cellphones can also be a helpful way to organize your thoughts and to look-up course concepts. I do allow the use of cellphones and laptops in the classroom, but users of these devices should sit near the walls so as to avoid the bright screens distracting other students. I do also reserve the right to prohibit laptop and cellphone use for anyone who distracts other students.
 -->
 
 ## Reading policy
 
-You are required to do all of the assigned readings prior to class time. Failure to do so will not be assessed directly but will be assessed indirectly through your participation and reading response grades.
+You are required to do all of the assigned readings before the lecture is posted. Failure to do so will not be assessed directly but will be assessed indirectly through your reading response and participation grades.
 	
 ## Late Assignments 
 
@@ -154,7 +168,7 @@ Late exercises and papers will be docked 25% for each day that they are late. Th
 
 ## Email Policy
 
-I tend to check my email twice per day: Once in the morning and once in the evening. However, if you send an email at 7 a.m. on the day of class, I may not respond to it before the class. Please allow at least 24 hours for a response. If I do not respond within 24 hours, it is safe to assume that I did not receive your email, it was erroneously archived, or it was sent to my spam folder. You should resend the email.
+I tend to check my email twice per day: Once in the morning and once in the evening. However, if you send an email at 7:00 am on the day of class, I may not respond to it before the class. Please allow at least 24 hours for a response. If I do not respond within 24 hours, it is safe to assume that I did not receive your email, it was erroneously archived, or it was sent to my spam folder. You should resend the email.
 
 ## Accessibility
 
@@ -162,8 +176,8 @@ If you require accommodations due to a documented disability, please contact me 
 
 ## Academic Integrity 
 
-Cheating or plagiarism will result in a grade of F for the course, and UO’s student conduct coordinator will be notified. Cheating includes, but is not necessarily limited to, providing or accepting information during tests. Plagiarism includes, but is not necessarily limited to, quoting or paraphrasing someone else’s ideas without acknowledging the source. If you are unsure of whether a certain behaviour counts as cheating or plagiarism, you should contact me (ckay@uoregon.edu) or the Office of the Dean of Students (phone: 541-346-3216; email: conduct@uoregon.edu).
+Cheating or plagiarism will result in a grade of F for the course, and UO’s student conduct coordinator will be notified. Cheating includes, but is not necessarily limited to, providing or accepting information during tests. Plagiarism includes, but is not necessarily limited to, quoting or paraphrasing someone else’s ideas without acknowledging the source. If you are unsure of whether a particular behaviour counts as cheating or plagiarism, you should contact me (ckay@uoregon.edu) or the Office of the Dean of Students (phone: 541-346-3216; email: conduct@uoregon.edu).
 
 ## Land Acknowledgement
 
-We acknowledge that the University of Oregon is situated on the ancestral territory of the Kalapuya people. We honour the traditional stewards of this land and pay respect to the elders, both past and present.
+We acknowledge that the University of Oregon is situated on Kalapuya Iliʔi---the ancestral territory of the Kalapuya people. As a University, we should honour the traditional stewards of this land and pay respect to the elders, both past and present.
