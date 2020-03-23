@@ -90,30 +90,30 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 
 | Component                                 | Percent of Grade       | Date Due                                                          |
 |-------------------------------------------|------------------------|-------------------------------------------------------------------|
-| Precourse Exercise                        | 6%                     | Completed by 11:59 pm on Sunday of Week 1 (04/04/2020).            |
+| Precourse Exercise                        | 6%                     | Completed by 11:59 pm on Sunday of Week 1 (04/05/2020).           |
 | Reading Responses                         | 36%                    | Posted to Canvas Discussions by 5:00 pm every Wednesday.          |
 | Participation (Reading Response Comment)  | 18%                    | Posted to Canvas Discussions by 5:00 pm every Sunday.             |
-| Profile Paper                             | 40%                    | Uploaded to Canvas by 11:59 pm on Friday of Week 10 (06/05/2020).  |
+| Profile Paper                             | 40%                    | Uploaded to Canvas by 11:59 pm on Friday of Week 10 (06/05/2020). |
 |                                           |                        |                                                                   |
 
 ## Precourse Exercise {#pce}
 
 + Percent of total grade: 6.00%
-+ Due: Completed by Sunday of Week 1 (04/04/2020).
++ Due: Completed by Sunday of Week 1 (04/05/2020).
 + Requirements: The *Precourse Exercise* assesses your preconceptions regarding the content to be covered in the course. It will also contain scales measuring aspects of your personality and behavioural tendencies. This data may be presented to the rest of the class to illustrate key course concepts. The data will be collected using an anonymous link so that I (and the rest of the class) will be unable to link your answers to you. Still, you are free to skip any question that makes you feel uncomfortable. I will grade the survey on a “pass versus no-pass” basis.
 + *Note.* For students joining the class after Sunday of Week 1, send me an email before the end of the second week of classes. I will assign you an alternative exercise of comparable length to the precourse exercise.
 
 ## Reading Responses {#rr}
 
 + Percent of total grade: 36.00%
-+ Due: Uploaded to Canvas by 5:00 pm every Wednesday.
-+ Requirements: The night before each class, students will submit responses to one of the assigned readings on Canvas Discussions. These reading responses will be viewable by other students in the class. The purpose of the responses is to prepare students for a productive discussion on Canvas. You are free to comment on any aspects of the paper you wish: You could discuss an idea you think is important, critique an idea that you think is questionable, or include an anecdote that relates to a finding. It is completely up to you! The responses are evaluated on the basis of perceived effort and thoroughness. The responses **will not** be evaluated on the basis of spelling, grammar, and compositional structure, as long as they are generally understandable (i.e., I can't grade something I can't understand). The responses should not merely be summaries of the papers, nor should they rely on long quotes. I advise you to aim for a total of about 150 words.
++ Due: Posted to Canvas Discussions by 5:00 pm every Wednesday.
++ Requirements: The night before each class, students will submit responses to one of the assigned readings on Canvas Discussions. These reading responses will be viewable by other students in the class. The purpose of the responses is to prepare students for a productive discussion on Canvas. You are free to comment on any aspects of the paper you wish: You could discuss an idea you think is important, critique an idea that you think is questionable, or include an anecdote that relates to a finding. It is completely up to you! The responses are evaluated on the basis of perceived effort and thoroughness. The responses **will not** be evaluated on the basis of spelling, grammar, and compositional structure, as long as they are generally understandable (i.e., I can't grade something I can't understand). The responses should not merely be summaries of the papers, nor should they rely on long quotes. I advise you to aim for at least 150 words.
 
 ## Participation {#participation}
 
 + Percent of total grade: 18.00%
-+ Due: Posted on Canvas by 5:00 pm every Wednesday. 
-+ Requirements: At any time between the lecture video being posted on Thursday and Sunday at 5:00 pm, students should log onto Canvas and comment on the [reading response](#rr) of at least one other student (although you are certainly welcome to comment on more than one). This comment must be substantive (i.e., you must critically engage with the response using knowledge gained through the given week's readings and the lecture). As with the [reading responses](#rr), I will grade the comments on the basis of perceived effort and thoroughness. I would aim for around 50-75 words. 
++ Due: Posted to Canvas Discussions by 5:00 pm every Sunday.
++ Requirements: At any time between the lecture video being posted on Thursday and Sunday at 5:00 pm, students should log onto Canvas and comment on the [reading response](#rr) of at least one other student (although you are certainly welcome to comment on more than one). This comment must be substantive (i.e., you must critically engage with the response using knowledge gained through the given week's readings and the lecture). As with the [reading responses](#rr), I will grade the comments on the basis of perceived effort and thoroughness. I would aim for at least 60 words. 
 + *Note.* Making your writing public---especially on a topic that you may not be familiar with---can be daunting. These comments are meant to help us learn from each other. If I feel your comment is negative or inappropriate, I will delete it and assign you a score of zero for the week. Constructive feedback is okay, but remember that we are all still learning. 
 
 ## Profile Paper {#pp}
