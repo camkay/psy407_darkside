@@ -14,8 +14,8 @@ output:
 | Week | Date       | Topic                              |
 |------|------------|------------------------------------|
 | 1    | 04/02/2020 | Introduction to Personality        |
-| 2    | 04/09/2020 | Introduction to the Dark Tetrad    |
-| 3    | 04/16/2020 | Measurement                        |
+| 2    | 04/09/2020 | Introduction to the Dark Triad     |
+| 3    | 04/16/2020 | Beyond the Dark Triad              |
 | 4    | 04/23/2020 | Evolution                          |
 | 5    | 04/30/2020 | Interpersonal Relationships        |
 | 6    | 05/07/2020 | Personality Disorders (PD)         |
@@ -30,13 +30,13 @@ output:
 ## Week 1 (04/02/2020): Introduction to Personality
   1. Allport, G. W. (1931). What is a trait of personality? *The Journal of Abnormal and Social Psychology*, 25(4), 368-372.
   
-## Week 2 (04/09/2020): Introduction to the Dark Tetrad
+## Week 2 (04/09/2020): Introduction to the Dark Triad
+  1. Paulhus, D. L., & Williams, K. M. (2002). The Dark Triad of personality: Narcissism, Machiavellianism, and psychopathy. *Journal of Research in Personality*, 36(6), 556–563.
   1. Furnham, A., Richards, S. C., & Paulhus, D. L. (2013). The Dark Triad of Personality: A 10 Year Review. *Social and Personality Psychology Compass*, 3, 199–216. 
-  1. Buckels, E. E., Jones, D. N., & Paulhus, D. L. (2013). Behavioral confirmation of everyday sadism. *Psychological Science*, 24(11), 2201–2209.
 
-## Week 3 (04/16/2020): Measurement
-  1. Paulhus, D. L., & Jones, D. N. (2015). Measures of Dark Personalities. *Measures of Personality and Social Psychological Constructs.*
-  1. Miller, J. D., Hyatt, C. S., Maples-Keller, J. L., Carter, N. T., & Lynam, D. R. (2017). Psychopathy and Machiavellianism: A distinction without a difference? *Journal of Personality*, 85(4), 439–453
+## Week 3 (04/16/2020): Beyond the Dark Triad
+  1. Buckels, E. E., Jones, D. N., & Paulhus, D. L. (2013). Behavioral confirmation of everyday sadism. *Psychological Science*, 24(11), 2201–2209.
+  1. Marcus, D. K., & Zeigler-Hill, V. (2015). A big tent of Dark Personality traits. *Social and Personality Psychology Compass*, 9(8), 434–446.
   
 ## Week 4 (04/23/2020): Evolution
   1. Jonason, P. K., Webster, G. D., Schmitt, D. P., Li, N. P., & Crysel, L. C. (2012). The Antihero in popular culture: Life history theory and the Dark Triad personality traits. *Review of General Psychology*, 16(2), 192–199.
