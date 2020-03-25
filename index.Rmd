@@ -134,7 +134,7 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 | A-     | 90-92%  | B-     | 80-82%  | C-     | 70-72%  | D-     | 60-62%  | N*     | <  70%  |
 |        |         |        |         |        |         |        |         |        |         |
 
-I expect the average grade received for this course to be ~85% with a standard deviation of 5. To avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades to conform to this distribution.
+I expect the average grade received for this course to be ~85% with a standard deviation of 8. To avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades to conform to this distribution.
 
 <!--
 ```{r}
