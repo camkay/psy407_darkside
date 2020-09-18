@@ -8,6 +8,10 @@ output:
     number_sections: TRUE
 ---
 
+```{r load_libraries, include = FALSE}
+library(here)
+```
+
 ***
 
 <div class="column-left">
@@ -40,13 +44,15 @@ Term: Spring, 2020
 
 Location: Canvas
 
-Time: Asynchronous
+Time: 10:15 am to 12:15 pm on Tuesdays.
 
 </div>
 
 <br />
 
 ***
+
+![](`r here("resources", "videos", "syllabus_crawl.mp4")`){width="100%"}
 
 # Course Description
 
@@ -88,51 +94,64 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 
 # Assignments and Engagement
 
-| Component                                 | Percent of Grade       | Date Due                                                          |
-|-------------------------------------------|------------------------|-------------------------------------------------------------------|
-| Precourse Exercise                        | 6%                     | Completed by 11:59 pm on Sunday of Week 1 (04/05/2020).           |
-| Reading Responses                         | 36%                    | Posted to Canvas Discussions by 5:00 pm every Wednesday.          |
-| Participation (Reading Response Comment)  | 18%                    | Posted to Canvas Discussions by 5:00 pm every Sunday.             |
-| Profile Paper                             | 40%                    | Uploaded to Canvas by 11:59 pm on Friday of Week 10 (06/05/2020). |
-|                                           |                        |                                                                   |
+| Component                   | Percent of Grade       | Date Due                                                          |
+|-----------------------------|------------------------|-------------------------------------------------------------------|
+| [Precourse Exercise](#pe)   | 5%                     | Completed by 11:59 pm on Sunday of Week 1 (10/02/2020).           |
+| [Quizzes](#qz)              | 45%                    | Completed by 11:59 pm every Sunday.                               |
+| [Profile Paper](#pp)        | 50%                    | Uploaded to Canvas by 11:59 pm on Friday of Week 10 (12/04/2020). |
+| [Extra Credit](#ec)         | +3%                    | Completed by 11:59 pm on Friday of Week 10 (12/04/2020).          |
+|                             |                        |                                                                   |
 
-## Precourse Exercise {#pce}
+## Precourse Exercise {#pe}
 
-+ Percent of total grade: 6.00%
-+ Due: Completed by Sunday of Week 1 (04/05/2020).
++ Percent of total grade: 5.00%
++ Due: Completed by 11:59 pm on Sunday of Week 1 (10/02/2020).
 + Requirements: The *Precourse Exercise* assesses your preconceptions regarding the content to be covered in the course. It will also contain scales measuring aspects of your personality and behavioural tendencies. This data may be presented to the rest of the class to illustrate key course concepts. The data will be collected using an anonymous link so that I (and the rest of the class) will be unable to link your answers to you. Still, you are free to skip any question that makes you feel uncomfortable. I will grade the survey on a “pass versus no-pass” basis.
 + *Note.* For students joining the class after Sunday of Week 1, send me an email before the end of the second week of classes. I will assign you an alternative exercise of comparable length to the precourse exercise.
 
-## Reading Responses {#rr}
+<!-- ## Reading Responses {#rr} -->
 
-+ Percent of total grade: 36.00%
-+ Due: Posted to Canvas Discussions by 5:00 pm every Wednesday.
-+ Requirements: The night before each class, students will submit responses to one of the assigned readings on Canvas Discussions. These reading responses will be viewable by other students in the class. The purpose of the responses is to prepare students for a productive discussion on Canvas. You are free to comment on any aspects of the paper you wish: You could discuss an idea you think is important, critique an idea that you think is questionable, or include an anecdote that relates to a finding. It is completely up to you! The responses are evaluated on the basis of perceived effort and thoroughness. The responses **will not** be evaluated on the basis of spelling, grammar, and compositional structure, as long as they are generally understandable (i.e., I can't grade something I can't understand). The responses should not merely be summaries of the papers, nor should they rely on long quotes. I advise you to aim for at least 150 words.
+<!-- + Percent of total grade: 36.00% -->
+<!-- + Due: Posted to Canvas Discussions by 5:00 pm every Wednesday. -->
+<!-- + Requirements: The night before each class, students will submit responses to one of the assigned readings on Canvas Discussions. These reading responses will be viewable by other students in the class. The purpose of the responses is to prepare students for a productive discussion on Canvas. You are free to comment on any aspects of the paper you wish: You could discuss an idea you think is important, critique an idea that you think is questionable, or include an anecdote that relates to a finding. It is completely up to you! The responses are evaluated on the basis of perceived effort and thoroughness. The responses **will not** be evaluated on the basis of spelling, grammar, and compositional structure, as long as they are generally understandable (i.e., I can't grade something I can't understand). The responses should not merely be summaries of the papers, nor should they rely on long quotes. I advise you to aim for at least 150 words. -->
 
-## Participation {#participation}
+<!-- ## Participation {#participation} -->
 
-+ Percent of total grade: 18.00%
-+ Due: Posted to Canvas Discussions by 5:00 pm every Sunday.
-+ Requirements: At any time between the lecture video being posted on Thursday and Sunday at 5:00 pm, students should log onto Canvas and comment on the [reading response](#rr) of at least one other student (although you are certainly welcome to comment on more than one). This comment must be substantive (i.e., you must critically engage with the response using knowledge gained through the given week's readings and the lecture). As with the [reading responses](#rr), I will grade the comments on the basis of perceived effort and thoroughness. I would aim for at least 60 words. 
-+ *Note.* Making your writing public---especially on a topic that you may not be familiar with---can be daunting. These comments are meant to help us learn from each other. If I feel your comment is negative or inappropriate, I will delete it and assign you a score of zero for the week. Constructive feedback is okay, but remember that we are all still learning. 
+<!-- + Percent of total grade: 18.00% -->
+<!-- + Due: Posted to Canvas Discussions by 5:00 pm every Sunday. -->
+<!-- + Requirements: At any time between the lecture video being posted on Thursday and Sunday at 5:00 pm, students should log onto Canvas and comment on the [reading response](#rr) of at least one other student (although you are certainly welcome to comment on more than one). This comment must be substantive (i.e., you must critically engage with the response using knowledge gained through the given week's readings and the lecture). As with the [reading responses](#rr), I will grade the comments on the basis of perceived effort and thoroughness. I would aim for at least 60 words.  -->
+<!-- + *Note.* Making your writing public---especially on a topic that you may not be familiar with---can be daunting. These comments are meant to help us learn from each other. If I feel your comment is negative or inappropriate, I will delete it and assign you a score of zero for the week. Constructive feedback is okay, but remember that we are all still learning.  -->
+
+## Quizzes {#qz}
+
++ Percent of total grade: 45.00%
++ Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (12/04/2020).
++ Requirements: It’s important to keep up with the readings and lecture videos to get the most out of this course, so you will be tested with a weekly quiz available on Canvas. The quizzes will be made available after class time on Tuesdays and will be due Sunday at 11:59pm. The quizzes will be 10 questions and will be timed (15 minutes or 1.5 minutes per question). You may use your notes and the textbook during the quiz.
 
 ## Profile Paper {#pp}
 
-+ Percent of total grade: 40.00%
-+ Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (06/05/2020).
-+ Requirements: The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain (e.g., Wicked Witch of the West; Emperor Palpatine; Dolores Umbridge) or an antihero (e.g., Harley Quinn; Walter White; Selina Meyer) to ensure your character of interest exhibits sufficient levels of the dark personality traits. The paper is to be 8-12 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins. You must include at least 8 references to peer-reviewed journal articles.
++ Percent of total grade: 50.00%
++ Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (12/04/2020).
++ Requirements: A full description of the profile paper assignment can be found here. The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain (e.g., Wicked Witch of the West; Emperor Palpatine; Dolores Umbridge) or an antihero (e.g., Harley Quinn; Deadpool; Selina Meyer) to ensure your character of interest exhibits sufficient levels of the dark personality traits. The paper should be 8-12 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins. You must include at least 8 references to peer-reviewed journal articles and at least 4 of those references must be readings that were not assigned in class. 
++ Examples: Two students from the previous offering of this course have graciously allowed me to share their work as examples of successful profile papers: [Azula: The downfall of Avatar's ultimate villain](`r here("resources", "example_papers", "genova_example_paper.pdf")`) (by Spring 2020 student, Gianna Genova) and [A dark personality analysis of Malcolm Bright](`r here("resources", "example_papers", "richwald_example_paper.pdf")`) (by Spring 2020 student, Anja Richwald). Other previous students of Psychology 407 - Dark Personalities have written papers on *Damon Salvatore* (from The Vampire Diaries), *Elizabeth Stonem* (from Skins), *Eric Cartman* (from South Park), *Evelyn Deavor* (from The Incredibles 2), *Hannibal Lecter* (from The Silence of the Lambs), *The Joker* (from The Joker), *Mother Gothel* (from Tangled), *Patrick Bateman* (from American Psycho), *Regina George* (from Mean Girls), *Tony Soprano* (from The Sopranos), *Villanelle* (from Killing Eve), *Lord Voldemort* (from the Harry Potter books), and *Walter White* (from Breaking Bad). 
 + *Note.* This assignment was inspired by a similar assignment designed by Sunaina Assanand (2017) at the University of British Columbia.
+
+## Extra Credit {#ec}
+
++ Percent of total grade: +3.00%
++ Due: Completed by 11:59 pm on Friday of Week 10 (12/04/2020).
++ Requirements: You can earn up to 3% extra credit by participating in 3 credits of research through the Human Subjects Pool. You will receive 1% extra credit for every 1 credit of participation completed. [Click here to learn how to participate in the Human Subjects Pool]( https://blogs.uoregon.edu/researchwithhumanparticipants/instructions-for-participants/).
 
 <br />
 
 # Percentage to Letter Grades
 
-| Letter | Percent | Letter | Percent | Letter | Percent | Letter | Percent | Letter | Percent |
-|--------|---------|--------|---------|--------|---------|--------|---------|--------|---------|
-| A+     | 97-100% | B+     | 87-89%  | C+     | 77-79%  | D+     | 67-69%  | F      | < 60%   |
-| A      | 93-96%  | B      | 83-86%  | C      | 73-76%  | D      | 63-66%  | P*     | >= 70%  |
-| A-     | 90-92%  | B-     | 80-82%  | C-     | 70-72%  | D-     | 60-62%  | N*     | <  70%  |
-|        |         |        |         |        |         |        |         |        |         |
+| Letter | Percent       | Letter | Percent       | Letter | Percent       | Letter | Percent       | Letter | Percent    |
+|--------|---------------|--------|---------------|--------|---------------|--------|---------------|--------|------------|
+| A      | 93.00-100.00% | B+     | 87.00-89.99%  | C+     | 77.00-79.99%  | D+     | 67.00-69.99%  | F      | < 59.99%   |
+| A-     | 90.00-92.99%  | B      | 83.00-86.99%  | C      | 73.00-76.99%  | D      | 63.00-66.99%  | P*     | >= 70.00%  |
+|        |               | B-     | 80.00-82.99%  | C-     | 70.00-72.99%  | D-     | 60.00-62.99%  | N*     | <  70.00%  |
+|        |               |        |               |        |               |        |               |        |            |
 
 I expect the average grade received for this course to be ~85% with a standard deviation of 8. To avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades to conform to this distribution.
 
