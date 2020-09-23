@@ -31,8 +31,7 @@ output:
   * Allport, G. W. (1931). What is a trait of personality? *The Journal of Abnormal and Social Psychology*, 25(4), 368-372.
   
 ## Week 2 (10/06/2020): Introduction to the Dark Triad
-  <!-- * Paulhus, D. L., & Williams, K. M. (2002). The Dark Triad of personality: Narcissism, Machiavellianism, and psychopathy. *Journal of Research in Personality*, 36(6), 556–563. -->
-  
+  * Paulhus, D. L., & Williams, K. M. (2002). The Dark Triad of personality: Narcissism, Machiavellianism, and psychopathy. *Journal of Research in Personality*, 36(6), 556–563.
   * Furnham, A., Richards, S. C., & Paulhus, D. L. (2013). The Dark Triad of Personality: A 10 Year Review. *Social and Personality Psychology Compass*, 3, 199–216. 
 
 ## Week 3 (10/13/2020): Beyond the Dark Triad
