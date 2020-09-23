@@ -52,7 +52,7 @@ Time: 10:15 am to 12:15 pm on Tuesdays.
 
 ***
 
-![](`r here("resources", "videos", "syllabus_crawl.mp4")`){width="100%"}
+<!-- ![](`r here("resources", "videos", "syllabus_crawl.mp4")`){width="100%"} -->
 
 # Course Description
 
