@@ -32,7 +32,7 @@ Office Hours: By appointment
 
 **Class Materials** 
 
-All required readings will be posted to the Modules tab on [canvas](www.canvas.com).   
+All required readings will be posted to the Modules tab on [Canvas](www.canvas.com).   
     
 </div>
 
@@ -42,7 +42,7 @@ All required readings will be posted to the Modules tab on [canvas](www.canvas.c
 
 Term: Spring, 2020
 
-Location: Canvas
+Location: [Canvas](www.canvas.com)
 
 Time: 10:15 am to 12:15 pm on Tuesdays.
 
@@ -66,12 +66,13 @@ Because of COVID-19, we will, unfortunately, be unable to meet for in-person dis
 
 I've reworked the course format to hopefully make the switch as minimally disruptive to the stated objectives of the course as possible. The restructured course is now as follows:
 
-* By the end of the first week (Sunday, April 4th, at 11:59 pm), I will ask you to complete a [precourse exercise](#pce) on Canvas. The [precourse exercise](#pce) assesses your familiarity with the topics to be covered in the course and assesses certain aspects of your psychological and behavioural profiles.    
-* Every Wednesday by 5:00 pm, I would like you to post a [reading response](#rr) responding to one of the week's readings on Canvas Discussions.
-* Every Thursday, I will post a recorded lecture to Canvas to provide background on the readings and a summary of the current state of the field.
-* Between the lecture being posted on Thursday and Sunday at 5:00 pm, you will have to [participate](#participation) in an online discussion by commenting on the [reading response](#rr) of at least one other student on Canvas Discussions.
-* By 11:59 pm on Friday of Week 10, you will upload a [profile paper](#pp) to Canvas. 
-  
+* Every Sunday, I will post a recorded lecture to [Canvas](www.canvas.com) to provide background on the readings and a summary of the current state of the field.
+* By the end of the first week (Friday, October 2^nd^, at 11:59 pm), I will ask you to complete a [precourse exercise](#pe) on Canvas. The [precourse exercise](#pe) assesses your familiarity with the topics to be covered in the course and assesses certain aspects of your psychological and behavioural profiles. 
+* During the first half of class time every Tuesday (10:15 am to 11:15 am), a [discussion board](#db) will open on [Canvas](www.canvas.com). You will write one response to the discussion board prompt and respond to at least one of your classmates. The [discussion board](#db) will expire at the end of the class period (11:15 am).
+* During the second half of class time every Tuesday (11:15 am to 12:15 pm), you are invited to join a Zoom meeting. I'm leaving these meetings open-ended so that they can become whatever the class wants them to be. They could end up serving as a time to ask me questions, have small groups discussions, share anecdotes, construct dark personality measures, talk about new findings, or work on your profile papers. These meetings are completely optional.
+* There will be a [quiz](#qz) due every Sunday at 11:59 pm. The [quizzes](#qz) will test you on the material covered in the readings and lectures for the preceding week.
+* By the end of Week 10 (Friday, December 4^th^, at 11:59 pm), you will upload a [profile paper](#pp) to [Canvas](www.canvas.com).
+
 <br />
 
 # Learning Objectives
@@ -88,7 +89,7 @@ I've reworked the course format to hopefully make the switch as minimally disrup
 
 # Estimated Student Workload
 
-According to federal policy, a single course credit is equivalent to 30 hours of real student work. This includes (a) time spent physically in the classroom and (b) time spent outside of the classroom working on classwork. A two-credit course, such as this, expects 60 hours of real student work with 20 of those hours spent in the classroom and 40 of those hours spent working outside of the classroom. We will, however, not be meeting in-person this term. One solution would be to increase the number of readings and assignments to make up the difference. A second solution (and the solution I've chosen to go with) is to simply encourage you to spend more time with the readings and the assignments than you would have otherwise. Over the current course, it is expected that you will spend approximately 10 hours listening to lectures; 40 hours reading course materials, preparing reading responses, and commenting on reading responses (4/hr per week); and 10 hours writing the profile paper.
+According to federal policy, a single course credit is equivalent to 30 hours of real student work. This includes (a) time spent physically in the classroom and (b) time spent outside of the classroom working on classwork. A two-credit course, such as this, expects 60 hours of real student work.<!--with 20 of those hours spent in the classroom and 40 of those hours spent working outside of the classroom. We will, however, not be meeting in-person this term. One solution would be to increase the number of readings and assignments to make up the difference. A second solution (and the solution I've chosen to go with) is to simply encourage you to spend more time with the readings and the assignments than you would have otherwise. --> Over the current course, it is expected that you will spend approximately 10 hours listening to lectures; 10 hours reading course materials; 10 hours responding to the discussion prompts; 15 studying for and completing the quizzes; and 15 hours writing the profile paper.
 
 <br />
 
@@ -96,18 +97,46 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 
 | Component                   | Percent of Grade       | Date Due                                                          |
 |-----------------------------|------------------------|-------------------------------------------------------------------|
-| [Precourse Exercise](#pe)   | 5%                     | Completed by 11:59 pm on Sunday of Week 1 (10/02/2020).           |
-| [Quizzes](#qz)              | 45%                    | Completed by 11:59 pm every Sunday.                               |
-| [Profile Paper](#pp)        | 50%                    | Uploaded to Canvas by 11:59 pm on Friday of Week 10 (12/04/2020). |
+| [Precourse Exercise](#pe)   | 3%                     | Completed by 11:59 pm on Friday of Week 1 (10/02/2020).           |
+| [Discussions Boards](#db)   | 25% (10 x 2.50%)       | Completed during class time on Tuesdays.                          |
+| [Quizzes](#qz)              | 30% (10 x 3.00%)       | Completed by 11:59 pm every Sunday.                               |
+| [Profile Paper](#pp)        | 42%                    | Uploaded to Canvas by 11:59 pm on Friday of Week 10 (12/04/2020). |
 | [Extra Credit](#ec)         | +3%                    | Completed by 11:59 pm on Friday of Week 10 (12/04/2020).          |
 |                             |                        |                                                                   |
 
 ## Precourse Exercise {#pe}
 
-+ Percent of total grade: 5.00%
-+ Due: Completed by 11:59 pm on Sunday of Week 1 (10/02/2020).
++ Percent of total grade: 3.00%
++ Due: Completed by 11:59 pm on Friday of Week 1 (10/02/2020).
 + Requirements: The *Precourse Exercise* assesses your preconceptions regarding the content to be covered in the course. It will also contain scales measuring aspects of your personality and behavioural tendencies. This data may be presented to the rest of the class to illustrate key course concepts. The data will be collected using an anonymous link so that I (and the rest of the class) will be unable to link your answers to you. Still, you are free to skip any question that makes you feel uncomfortable. I will grade the survey on a “pass versus no-pass” basis.
 + *Note.* For students joining the class after Sunday of Week 1, send me an email before the end of the second week of classes. I will assign you an alternative exercise of comparable length to the precourse exercise.
+
+## Discussion Boards {#db}
+
++ Percent of total grade: 25.00% (10 x 2.50%)
++ Due: Completed during class time on Tuesdays.
++ Requirements: On Tuesdays at 10:15 am, a discussion board will become available on Canvas. You will write one response to the prompt (about 100 words) and respond to at least one of your classmates (about 60 words). The discussion board activities should take you about 1 hour to complete. Of the 2.50% per discussion board, 1.50% will be awarded for your original post and 1.00% will be awarded for your response to the other classmate. No points will be awarded if responses are disrespectful or dismissive to other students in the class. The discussion board will expire at the end of the class period (11:15 am).
++ *Note.* If you are unavailable from 10:15 am to 11:15 am on Tuesdays, please contact me as soon as possible so that we can set up a different time for you to complete the discussion boards.
+
+## Quizzes {#qz}
+
++ Percent of total grade: 30.00% (10 x 3.00%)
++ Due: Completed before 11:59 pm on Canvas each week.
++ Requirements: It’s important to keep up with the readings and lecture videos to get the most out of this course, so you will be tested with a weekly quiz available on Canvas. The quizzes will be made available after class time on Tuesdays and will be due Sunday at 11:59 pm. The quizzes will be 10 questions and will be timed (15 minutes or 1.5 minutes per question). You may use your notes and the textbook during the quiz.
+
+## Profile Paper {#pp}
+
++ Percent of total grade: 42.00%
++ Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (12/04/2020).
++ Requirements: A full description of the profile paper assignment can be found [here](`r here("resources", "profile_paper", "profile_paper_description.pdf")`). The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain (e.g., Wicked Witch of the West; Emperor Palpatine; Dolores Umbridge) or an antihero (e.g., Harley Quinn; Deadpool; Selina Meyer) to ensure your character of interest exhibits sufficient levels of the dark personality traits. The paper should be 8-12 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins. You must include at least 8 references to peer-reviewed journal articles and at least 4 of those references must be readings that were not assigned in class.
++ Examples: Two students from the previous offering of this course have graciously allowed me to share their work as examples of successful profile papers: [Azula: The downfall of Avatar's ultimate villain](`r here("resources", "profile_paper", "example_papers", "genova_example_paper.pdf")`) (by Spring 2020 student Gianna Genova) and [A dark personality analysis of Malcolm Bright](`r here("resources", "profile_paper", "example_papers", "richwald_example_paper.pdf")`) (by Spring 2020 student Anja Richwald). Other previous students of Psychology 407 - Dark Personalities have written papers on *Damon Salvatore* (from The Vampire Diaries), *Elizabeth Stonem* (from Skins), *Eric Cartman* (from South Park), *Evelyn Deavor* (from The Incredibles 2), *Hannibal Lecter* (from The Silence of the Lambs), *The Joker* (from The Joker), *Mother Gothel* (from Tangled), *Patrick Bateman* (from American Psycho), *Regina George* (from Mean Girls), *Tony Soprano* (from The Sopranos), *Villanelle* (from Killing Eve), *Lord Voldemort* (from the Harry Potter books), and *Walter White* (from Breaking Bad). 
++ *Note.* This assignment was inspired by a similar assignment designed by Sunaina Assanand (2017) at the University of British Columbia.
+
+## Extra Credit {#ec}
+
++ Percent of total grade: +3.00%
++ Due: Completed by 11:59 pm on Friday of Week 10 (12/04/2020).
++ Requirements: You can earn up to 3% extra credit by participating in 3 credits of research through the Human Subjects Pool. You will receive 1% extra credit for every 1 credit of participation completed. [Click here to learn how to participate in the Human Subjects Pool]( https://blogs.uoregon.edu/researchwithhumanparticipants/instructions-for-participants/).
 
 <!-- ## Reading Responses {#rr} -->
 
@@ -122,26 +151,6 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 <!-- + Requirements: At any time between the lecture video being posted on Thursday and Sunday at 5:00 pm, students should log onto Canvas and comment on the [reading response](#rr) of at least one other student (although you are certainly welcome to comment on more than one). This comment must be substantive (i.e., you must critically engage with the response using knowledge gained through the given week's readings and the lecture). As with the [reading responses](#rr), I will grade the comments on the basis of perceived effort and thoroughness. I would aim for at least 60 words.  -->
 <!-- + *Note.* Making your writing public---especially on a topic that you may not be familiar with---can be daunting. These comments are meant to help us learn from each other. If I feel your comment is negative or inappropriate, I will delete it and assign you a score of zero for the week. Constructive feedback is okay, but remember that we are all still learning.  -->
 
-## Quizzes {#qz}
-
-+ Percent of total grade: 45.00%
-+ Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (12/04/2020).
-+ Requirements: It’s important to keep up with the readings and lecture videos to get the most out of this course, so you will be tested with a weekly quiz available on Canvas. The quizzes will be made available after class time on Tuesdays and will be due Sunday at 11:59pm. The quizzes will be 10 questions and will be timed (15 minutes or 1.5 minutes per question). You may use your notes and the textbook during the quiz.
-
-## Profile Paper {#pp}
-
-+ Percent of total grade: 50.00%
-+ Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (12/04/2020).
-+ Requirements: A full description of the profile paper assignment can be found here. The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain (e.g., Wicked Witch of the West; Emperor Palpatine; Dolores Umbridge) or an antihero (e.g., Harley Quinn; Deadpool; Selina Meyer) to ensure your character of interest exhibits sufficient levels of the dark personality traits. The paper should be 8-12 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins. You must include at least 8 references to peer-reviewed journal articles and at least 4 of those references must be readings that were not assigned in class. 
-+ Examples: Two students from the previous offering of this course have graciously allowed me to share their work as examples of successful profile papers: [Azula: The downfall of Avatar's ultimate villain](`r here("resources", "example_papers", "genova_example_paper.pdf")`) (by Spring 2020 student, Gianna Genova) and [A dark personality analysis of Malcolm Bright](`r here("resources", "example_papers", "richwald_example_paper.pdf")`) (by Spring 2020 student, Anja Richwald). Other previous students of Psychology 407 - Dark Personalities have written papers on *Damon Salvatore* (from The Vampire Diaries), *Elizabeth Stonem* (from Skins), *Eric Cartman* (from South Park), *Evelyn Deavor* (from The Incredibles 2), *Hannibal Lecter* (from The Silence of the Lambs), *The Joker* (from The Joker), *Mother Gothel* (from Tangled), *Patrick Bateman* (from American Psycho), *Regina George* (from Mean Girls), *Tony Soprano* (from The Sopranos), *Villanelle* (from Killing Eve), *Lord Voldemort* (from the Harry Potter books), and *Walter White* (from Breaking Bad). 
-+ *Note.* This assignment was inspired by a similar assignment designed by Sunaina Assanand (2017) at the University of British Columbia.
-
-## Extra Credit {#ec}
-
-+ Percent of total grade: +3.00%
-+ Due: Completed by 11:59 pm on Friday of Week 10 (12/04/2020).
-+ Requirements: You can earn up to 3% extra credit by participating in 3 credits of research through the Human Subjects Pool. You will receive 1% extra credit for every 1 credit of participation completed. [Click here to learn how to participate in the Human Subjects Pool]( https://blogs.uoregon.edu/researchwithhumanparticipants/instructions-for-participants/).
-
 <br />
 
 # Percentage to Letter Grades
@@ -153,7 +162,7 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 |        |               | B-     | 80.00-82.99%  | C-     | 70.00-72.99%  | D-     | 60.00-62.99%  | N*     | <  70.00%  |
 |        |               |        |               |        |               |        |               |        |            |
 
-I expect the average grade received for this course to be ~85% with a standard deviation of 8. To avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades to conform to this distribution.
+<!-- I expect the average grade received for this course to be ~85% with a standard deviation of 8. To avoid potential grade inflation and to maintain fairness across different courses at the University of Oregon, I reserve the right to scale grades to conform to this distribution. -->
 
 <!--
 ```{r}
@@ -176,14 +185,10 @@ I ask that you help foster a (virtual) classroom that is free from distractions,
 
 Note-taking by hand---even for those who do not have a diagnosed learning disability---can often be difficult for students who write slower than their peers. Laptops and cellphones can also be a helpful way to organize your thoughts and to look-up course concepts. I do allow the use of cellphones and laptops in the classroom, but users of these devices should sit near the walls so as to avoid the bright screens distracting other students. I do also reserve the right to prohibit laptop and cellphone use for anyone who distracts other students.
 -->
-
-## Reading policy
-
-You are required to do all of the assigned readings before the lecture is posted. Failure to do so will not be assessed directly but will be assessed indirectly through your reading response and participation grades.
 	
 ## Late Assignments 
 
-Late exercises and papers will be docked 25% for each day that they are late. This means, if you turn in the profile paper two days late, you would receive a maximum of 50% for your work. Students may request extensions, but these requests are unlikely to be successful.
+Late exercises and papers will be docked 25% for each day that they are late. This means, if you turn in the profile paper two days late, you would receive a maximum of 50% for your work. If you need an extension on an assignment, please contact me at least a week in advance of the due date.
 
 ## Email Policy
 
@@ -195,7 +200,7 @@ If you require accommodations due to a documented disability, please contact me 
 
 ## Academic Integrity 
 
-Cheating or plagiarism will result in a grade of F for the course, and UO’s student conduct coordinator will be notified. Cheating includes, but is not necessarily limited to, providing or accepting information during tests. Plagiarism includes, but is not necessarily limited to, quoting or paraphrasing someone else’s ideas without acknowledging the source. If you are unsure of whether a particular behaviour counts as cheating or plagiarism, you should contact me (ckay@uoregon.edu) or the Office of the Dean of Students (phone: 541-346-3216; email: conduct@uoregon.edu).
+Cheating or plagiarism will result in a grade of F for the course, and UO’s student conduct coordinator will be notified. Cheating includes, but is not necessarily limited to, providing or accepting information during quizzes an exams. Plagiarism includes, but is not necessarily limited to, quoting or paraphrasing someone else’s ideas without acknowledging the source. If you are unsure of whether a particular behaviour counts as cheating or plagiarism, you should contact me (ckay@uoregon.edu) or the Office of the Dean of Students (phone: 541-346-3216; email: conduct@uoregon.edu).
 
 ## Land Acknowledgement
 

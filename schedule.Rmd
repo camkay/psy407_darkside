@@ -50,7 +50,7 @@ output:
 <!-- * Jonason, P. K., & Schmitt, D. P. (2012). What have you done for me lately? Friendship-selection in the shadow of the dark triad traits. *Evolutionary Psychology*, 10(3), 400–421. -->
   
 ## Week 6 (11/03/2020): Personality Disorders
-  * Grigoras, M., & Wille, B. (2017). Shedding light on the dark side: Associations between the Dark Triad and the DSM-5 maladaptive trait model. *Personality and Individual Differences*, 104, 516–521.
+  * Lyons, M. (2019). The Dark Triad within a Clinical Framework. In *The Dark Triad of Personality: Narcissism, Machiavellianism, and Psychopathy in Everyday Life* (1st ed.) (pp.39-60). London: Academic Press.
   
 ## Week 7 (11/10/2020): Forensic Implications
   * Azizli, N., Atkinson, B. E., Baughman, H. M., Chin, K., Vernon, P. A., Harris, E., & Veselka, L. (2016). Lies and crimes: Dark Triad, misconduct, and high-stakes deception. *Personality and Individual Differences*, 89, 34–39.
@@ -71,4 +71,4 @@ output:
 
   <!-- * McCain, J. L., Borg, Z. G., Rothenberg, A. H., Churillo, K. M., Weiler, P., & Campbell, W. K. (2016). Personality and selfies: Narcissism and the Dark Triad. *Computers in Human Behavior*, 64, 126–133. -->
   
-  * Duncan, Z., & March, E. (2019). Using Tinder® to start a fire: Predicting antisocial use of Tinder® with gender and the Dark Tetrad. *Personality and Individual Differences*, 145, 9–14.
+  * Moor, L., & Anderson, J. R. (2019). A systematic literature review of the relationship between dark personality traits and antisocial online behaviours. *Personality and Individual Differences*, 144, 40–55. 
