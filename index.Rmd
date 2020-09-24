@@ -98,9 +98,9 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 | Component                   | Percent of Grade       | Date Due                                                          |
 |-----------------------------|------------------------|-------------------------------------------------------------------|
 | [Precourse Exercise](#pe)   | 3%                     | Completed by 11:59 pm on Friday of Week 1 (10/02/2020).           |
-| [Discussions Boards](#db)   | 25% (10 x 2.50%)       | Completed during class time on Tuesdays.                          |
-| [Quizzes](#qz)              | 30% (10 x 3.00%)       | Completed by 11:59 pm every Sunday.                               |
-| [Profile Paper](#pp)        | 42%                    | Uploaded to Canvas by 11:59 pm on Friday of Week 10 (12/04/2020). |
+| [Discussions Boards](#db)   | 27% (9  x 3%)          | Completed during class time on Tuesdays.                          |
+| [Quizzes](#qz)              | 30% (10 x 3%)          | Completed by 11:59 pm every Sunday.                               |
+| [Profile Paper](#pp)        | 40%                    | Uploaded to Canvas by 11:59 pm on Friday of Week 10 (12/04/2020). |
 | [Extra Credit](#ec)         | +3%                    | Completed by 11:59 pm on Friday of Week 10 (12/04/2020).          |
 |                             |                        |                                                                   |
 
@@ -113,9 +113,9 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 
 ## Discussion Boards {#db}
 
-+ Percent of total grade: 25.00% (10 x 2.50%)
++ Percent of total grade: 27.00% (9 x 3.00%)
 + Due: Completed during class time on Tuesdays.
-+ Requirements: On Tuesdays at 10:15 am, a discussion board will become available on Canvas. You will write one response to the prompt (about 100 words) and respond to at least one of your classmates (about 60 words). The discussion board activities should take you about 1 hour to complete. Of the 2.50% per discussion board, 1.50% will be awarded for your original post and 1.00% will be awarded for your response to the other classmate. No points will be awarded if responses are disrespectful or dismissive to other students in the class. The discussion board will expire at the end of the class period (11:15 am).
++ Requirements: On Tuesdays at 10:15 am, a discussion board will become available on Canvas. You will write one response to the prompt (about 100 words) and respond to at least one of your classmates (about 60 words). The discussion board activities should take you about 1 hour to complete. Of the 3.00% per discussion board, 2.00% will be awarded for your original post and 1.00% will be awarded for your response to the other classmate. No points will be awarded if responses are disrespectful or dismissive to other students in the class. The discussion board will expire at the end of the class period (11:15 am).
 + *Note.* If you are unavailable from 10:15 am to 11:15 am on Tuesdays, please contact me as soon as possible so that we can set up a different time for you to complete the discussion boards.
 
 ## Quizzes {#qz}
@@ -126,7 +126,7 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 
 ## Profile Paper {#pp}
 
-+ Percent of total grade: 42.00%
++ Percent of total grade: 40.00%
 + Due: Uploaded to Canvas by 11:59pm on Friday of Week 10 (12/04/2020).
 + Requirements: A full description of the profile paper assignment can be found [here](`r here("resources", "profile_paper", "profile_paper_description.pdf")`). The Profile Paper aims to assess your ability to critically and creatively apply course content to describe the personality of a fictional character of your choosing. I suggest that you choose either a villain (e.g., Wicked Witch of the West; Emperor Palpatine; Dolores Umbridge) or an antihero (e.g., Harley Quinn; Deadpool; Selina Meyer) to ensure your character of interest exhibits sufficient levels of the dark personality traits. The paper should be 8-12 double-spaced pages in length, excluding the title page and references, with Times New Roman 12-point font and 2.54cm margins. You must include at least 8 references to peer-reviewed journal articles and at least 4 of those references must be readings that were not assigned in class.
 + Examples: Two students from the previous offering of this course have graciously allowed me to share their work as examples of successful profile papers: [Azula: The downfall of Avatar's ultimate villain](`r here("resources", "profile_paper", "example_papers", "genova_example_paper.pdf")`) (by Spring 2020 student Gianna Genova) and [A dark personality analysis of Malcolm Bright](`r here("resources", "profile_paper", "example_papers", "richwald_example_paper.pdf")`) (by Spring 2020 student Anja Richwald). Other previous students of Psychology 407 - Dark Personalities have written papers on *Damon Salvatore* (from The Vampire Diaries), *Elizabeth Stonem* (from Skins), *Eric Cartman* (from South Park), *Evelyn Deavor* (from The Incredibles 2), *Hannibal Lecter* (from The Silence of the Lambs), *The Joker* (from The Joker), *Mother Gothel* (from Tangled), *Patrick Bateman* (from American Psycho), *Regina George* (from Mean Girls), *Tony Soprano* (from The Sopranos), *Villanelle* (from Killing Eve), *Lord Voldemort* (from the Harry Potter books), and *Walter White* (from Breaking Bad). 
@@ -188,7 +188,7 @@ Note-taking by hand---even for those who do not have a diagnosed learning disabi
 	
 ## Late Assignments 
 
-Late exercises and papers will be docked 25% for each day that they are late. This means, if you turn in the profile paper two days late, you would receive a maximum of 50% for your work. If you need an extension on an assignment, please contact me at least a week in advance of the due date.
+Late exercises and papers will be docked 10% for each day that they are late. This means, if you turn in the profile paper two days late, you would receive a maximum of 80% for your work. If you need an extension on an assignment, please contact me at least a week in advance of the due date.
 
 ## Email Policy
 
