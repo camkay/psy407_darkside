@@ -111,4 +111,13 @@ output:
   * *Optional*
     + McCain, J. L., Borg, Z. G., Rothenberg, A. H., Churillo, K. M., Weiler, P., & Campbell, W. K. (2016). Personality and selfies: Narcissism and the Dark Triad. *Computers in Human Behavior*, 64, 126–133.
     + Buckels, E. E., Trapnell, P. D., & Paulhus, D. L. (2014). Trolls just want to have fun. *Personality and Individual Differences*, 67, 97–102. 
+    
+# Other recommendations
+  * Books
+    + Hare, R. D. (2011). Without conscience. New York, NY: Guilford Press.
+    + Kiehl, K. A. (2014). The Psychopath Whisperer: The Science of Those Without Conscience. New York: Broadway Books.
+    + Dutton, K. (2013). The wisdom of psychopaths: What saints, spies, and serial killers can teach us about success. New York: Scientific American.
+  * Podcasts
+    + Lowe, V. (2018). The Dark Triad [Audio podcast]. Nocturne: Peering into the dusty corners of the night.
+    + Kaufman, S. B. (2015). What is it like to be a psychopath? [Audio Podcast]. The Psychology Podcast with Dr. Scott Barry Kaufman.
  
