@@ -28,46 +28,87 @@ output:
 # Readings
 
 ## Week 1 (09/29/2020): Introduction to Personality
-  * Allport, G. W. (1931). What is a trait of personality? *The Journal of Abnormal and Social Psychology*, 25(4), 368-372.
+  * *Required*
+    + Allport, G. W. (1931). What is a trait of personality? *The Journal of Abnormal and Social Psychology*, 25(4), 368-372.
+  * *Optional*
+    + Funder, D. C. (1991). Global traits: A Neo-Allportian approach to personality. *Psychological Science*, 2(1), 31–39.
   
 ## Week 2 (10/06/2020): Introduction to the Dark Triad
-  * Paulhus, D. L., & Williams, K. M. (2002). The Dark Triad of personality: Narcissism, Machiavellianism, and psychopathy. *Journal of Research in Personality*, 36(6), 556–563.
-  * Furnham, A., Richards, S. C., & Paulhus, D. L. (2013). The Dark Triad of Personality: A 10 Year Review. *Social and Personality Psychology Compass*, 3, 199–216. 
+  * *Required*
+    + Paulhus, D. L., & Williams, K. M. (2002). The Dark Triad of personality: Narcissism, Machiavellianism, and psychopathy. *Journal of Research in Personality*, 36(6), 556–563.
+    + Furnham, A., Richards, S. C., & Paulhus, D. L. (2013). The Dark Triad of Personality: A 10 Year Review. *Social and Personality Psychology Compass*, 3, 199–216. 
+  * *Optional*
+    + Koehn, M. A., Okan, C., & Jonason, P. K. (2019). A primer on the Dark Triad traits. *Australian Journal of Psychology*, 71(1), 7–15.
+    + Jones, D. N., & Paulhus, D. L. (2011). Differentiating the Dark Triad within the Interpersonal Circumplex. *Handbook of Interpersonal Psychology: Theory, Research, Assessment, and Therapeutic Interventions*, 249–267.
+    
+    <!-- + Lyons, M. (2019). Introduction to the Dark Triad. In *The Dark Triad of Personality: Narcissism, Machiavellianism, and Psychopathy in Everyday Life* (1st ed.) (pp.39-60). London: Academic Press. -->
+    <!-- + Zeigler-Hill, V., & Marcus, D. K. (2016). Introduction: A bright future for dark personality features? In V. Zeigler-Hill & D. K. Marcus (Eds.), *The Dark Side of Personality: Science and Practice in Social, Personality, and Clinical Psychology* (1st ed., pp. 3–22). Washington, DC: American Psychological Association. -->
 
 ## Week 3 (10/13/2020): Beyond the Dark Triad
-  * Buckels, E. E., Jones, D. N., & Paulhus, D. L. (2013). Behavioral confirmation of everyday sadism. *Psychological Science*, 24(11), 2201–2209.
-  * Marcus, D. K., & Zeigler-Hill, V. (2015). A big tent of Dark Personality traits. *Social and Personality Psychology Compass*, 9(8), 434–446.
+  * *Required*
+    + Buckels, E. E., Jones, D. N., & Paulhus, D. L. (2013). Behavioral confirmation of everyday sadism. *Psychological Science*, 24(11), 2201–2209.
+    + Marcus, D. K., & Zeigler-Hill, V. (2015). A big tent of Dark Personality traits. *Social and Personality Psychology Compass*, 9(8), 434–446.
+  * *Optional*
+    + Marcus, D. K., Zeigler-Hill, V., Mercer, S. H., & Norris, A. L. (2014). The psychology of spite and the measurement of spitefulness. *Psychological Assessment*, 26(2), 563–574.
+    + Jones, D. N., & Figueredo, A. J. (2013). The core of darkness: Uncovering the heart of the Dark Triad. *European Journal of Personality*, 27, 521–531.
+    + Moshagen, M., Hilbig, B. E., & Zettler, I. (2018). The dark core of personality. *Psychological Review*, 125(5), 656–688.
   
 ## Week 4 (10/20/2020): Evolution
-  * Jonason, P. K., Webster, G. D., Schmitt, D. P., Li, N. P., & Crysel, L. C. (2012). The antihero in popular culture: Life history theory and the Dark Triad personality traits. *Review of General Psychology*, 16(2), 192–199.
-  
-  <!-- * Jonason, P. K., Foster, J. D., Egorova, M. S., Parshikova, O., Csathó, Á., Oshio, A., & Gouveia, V. V. (2017). The Dark Triad traits from a life history perspective in six countries. *Frontiers in Psychology*, 8, 1–6. -->
+  * *Required*
+    + Jonason, P. K., Webster, G. D., Schmitt, D. P., Li, N. P., & Crysel, L. C. (2012). The antihero in popular culture: Life history theory and the Dark Triad personality traits. *Review of General Psychology*, 16(2), 192–199.
+  * *Optional*
+    + Jonason, P. K., Koenig, B. L., & Tost, J. (2010). Living a fast life: The Dark Triad and Life History Theory. *Human Nature*, 21(4), 428–442. 
+    + McDonald, M. M., Donnellan, M. B., & Navarrete, C. D. (2012). A life history approach to understanding the Dark Triad. *Personality and Individual Differences*, 52(5), 601–605.
+    
+    <!-- + Jonason, P. K., & Tost, J. (2010). I just cannot control myself: The Dark Triad and self-control. Personality and Individual Differences, 49(6), 611–615. -->
   
 ## Week 5 (10/27/2020): Interpersonal Relationships
-  * Jonason, P. K., Lyons, M., & Blanchard, A. (2015). Birds of a “bad” feather flock together: The Dark Triad and mate choice. *Personality and Individual Differences*, 78, 34–38.
+  * *Required*
+    + Jonason, P. K., Lyons, M., & Blanchard, A. (2015). Birds of a “bad” feather flock together: The Dark Triad and mate choice. *Personality and Individual Differences*, 78, 34–38.
+  * *Optional*
+    + Jauk, E., Neubauer, A. C., Mairunteregger, T., Pemp, S., Sieber, K. P., & Rauthmann, J. F. (2016). How alluring are dark personalities? The Dark Triad and attractiveness in speed dating. *European Journal of Personality*, 30(2), 125–138. 
+    + Kardum, I., Hudek-Knezevic, J., Schmitt, D. P., & Covic, M. (2017). Assortative mating for Dark Triad: Evidence of positive, initial, and active assortment. *Personal Relationships*, 24(1), 75–83. 
+    + Goncalves, M. K., & Campbell, L. (2014). The Dark Triad and the derogation of mating competitors. *Personality and Individual Differences*, 67, 42–46. 
+    + Baughman, H. M., Jonason, P. K., Veselka, L., & Vernon, P. A. (2014). Four shades of sexual fantasies linked to the Dark Triad. *Personality and Individual Differences*, 67(September), 47–51. 
 
-<!-- * Jonason, P. K., & Schmitt, D. P. (2012). What have you done for me lately? Friendship-selection in the shadow of the dark triad traits. *Evolutionary Psychology*, 10(3), 400–421. -->
-  
+    <!-- + Jonason, P. K., & Schmitt, D. P. (2012). What have you done for me lately? Friendship-selection in the shadow of the dark triad traits. *Evolutionary Psychology*, 10(3), 400–421. -->
+    
 ## Week 6 (11/03/2020): Personality Disorders
-  * Lyons, M. (2019). The Dark Triad within a Clinical Framework. In *The Dark Triad of Personality: Narcissism, Machiavellianism, and Psychopathy in Everyday Life* (1st ed.) (pp.39-60). London: Academic Press.
+  * *Required*
+    + Lyons, M. (2019). The Dark Triad within a Clinical Framework. In *The Dark Triad of Personality: Narcissism, Machiavellianism, and Psychopathy in Everyday Life* (1st ed.) (pp.39-60). London: Academic Press.
+  * *Optional*
+    + Goncalves, M. K., & Campbell, L. (2014). The Dark Triad and the derogation of mating competitors. *Personality and Individual Differences*, 67, 42–46.
+    + Crego, C., & Widiger, T. A. (2015). Psychopathy and the DSM. *Journal of Personality*, 83(6), 665–677.
+    + Miller, J. D., Dir, A., Gentile, B., Wilson, L., Pryor, L. R., & Campbell, W. K. (2010). Searching for a vulnerable Dark Triad: Comparing factor 2 psychopathy, vulnerable narcissism, and borderline personality disorder. *Journal of Personality*, 78(5), 1529–1564.
   
 ## Week 7 (11/10/2020): Forensic Implications
-  * Azizli, N., Atkinson, B. E., Baughman, H. M., Chin, K., Vernon, P. A., Harris, E., & Veselka, L. (2016). Lies and crimes: Dark Triad, misconduct, and high-stakes deception. *Personality and Individual Differences*, 89, 34–39.
-  
-  <!-- * Chabrol, H., Van Leeuwen, N., Rodgers, R., & Séjourné, N. (2009). Contributions of psychopathic, narcissistic, Machiavellian, and sadistic personality traits to juvenile delinquency. *Personality and Individual Differences*, 47(7), 734–739.  -->
+  * *Required*
+    + Azizli, N., Atkinson, B. E., Baughman, H. M., Chin, K., Vernon, P. A., Harris, E., & Veselka, L. (2016). Lies and crimes: Dark Triad, misconduct, and high-stakes deception. *Personality and Individual Differences*, 89, 34–39.
+  * *Optional*
+    + Chabrol, H., Van Leeuwen, N., Rodgers, R., & Séjourné, N. (2009). Contributions of psychopathic, narcissistic, Machiavellian, and sadistic personality traits to juvenile delinquency. *Personality and Individual Differences*, 47(7), 734–739.
+    + Hemphill, J. F., Hare, R. D., & Wong, S. (1998). Psychopathy and recidivism: A review. *Legal and Criminological Psychology*, 3, 139–170.
 
 ## Week 8 (11/17/2020): Occupations
-  <!-- * O’Boyle, Ernest H., J., Forsyth, D. R., Banks, G. C., & McDaniel, M. A. (2012). A meta-analysis of the Dark Triad and work behavior: A social exchange perspective. *Journal of Applied Psychology*, 97(3), 557–579. -->
-  
-  * Williams, K. M., Nathanson, C., & Paulhus, D. L. (2010). Identifying and profiling scholastic cheaters: Their personality, cognitive ability, and motivation. *Journal of Experimental Psychology, Applied*, 16(3), 293–307.
-
+  * *Required*
+    + Williams, K. M., Nathanson, C., & Paulhus, D. L. (2010). Identifying and profiling scholastic cheaters: Their personality, cognitive ability, and motivation. *Journal of Experimental Psychology, Applied*, 16(3), 293–307.
+  * *Optional*
+    + O’Boyle, Ernest H., J., Forsyth, D. R., Banks, G. C., & McDaniel, M. A. (2012). A meta-analysis of the Dark Triad and work behavior: A social exchange perspective. *Journal of Applied Psychology*, 97(3), 557–579. 
+    + Smith, M. B., Hill, A. D., Wallace, J. C., Recendes, T., & Judge, T. A. (2018). Upsides to dark and downsides to bright personality: A multidomain review and future research agenda. Journal of Management, 44(1), 191–217. 
+    
 ## Week 9 (11/24/2020): Morality
-  * Bartels, D. M., & Pizarro, D. A. (2011). The mismeasure of morals: Antisocial personality traits predict utilitarian responses to moral dilemmas. *Cognition*, 121(1), 154–161.
-  
-  <!-- * Rauthmann, J. F., & Kolar, G. P. (2012). How “dark” are the Dark Triad traits? Examining the perceived darkness of narcissism, Machiavellianism, and psychopathy. *Personality and Individual Differences*, 53(7), 884–889. -->
+  * *Required*
+    + Bartels, D. M., & Pizarro, D. A. (2011). The mismeasure of morals: Antisocial personality traits predict utilitarian responses to moral dilemmas. *Cognition*, 121(1), 154–161.
+  * *Optional*
+    + Rauthmann, J. F., & Kolar, G. P. (2012). How “dark” are the Dark Triad traits? Examining the perceived darkness of narcissism, Machiavellianism, and psychopathy. *Personality and Individual Differences*, 53(7), 884–889.
+    + Karandikar, S., Kapoor, H., Fernandes, S., & Jonason, P. K. (2019). Predicting moral decision-making with dark personalities and moral values. *Personality and Individual Differences*, 140, 70–75.
+    + Jonason, P. K., Zeigler-Hill, V., & Okan, C. (2017). Good v. evil: Predicting sinning with dark personality traits and moral foundations. *Personality and Individual Differences*, 104, 180–185. 
+    
+    <!-- + Jonason, P. K., Strosser, G. L., Kroll, C. H., Duineveld, J. J., & Baruffi, S. A. (2015). Valuing myself over others: The Dark Triad traits and moral and social values. *Personality and Individual Differences*, 81, 102–106.  -->
 
 ## Week 10 (12/01/2020): Internet Behaviours
-
-  <!-- * McCain, J. L., Borg, Z. G., Rothenberg, A. H., Churillo, K. M., Weiler, P., & Campbell, W. K. (2016). Personality and selfies: Narcissism and the Dark Triad. *Computers in Human Behavior*, 64, 126–133. -->
-  
-  * Moor, L., & Anderson, J. R. (2019). A systematic literature review of the relationship between dark personality traits and antisocial online behaviours. *Personality and Individual Differences*, 144, 40–55. 
+  * *Required*
+    + Moor, L., & Anderson, J. R. (2019). A systematic literature review of the relationship between dark personality traits and antisocial online behaviours. *Personality and Individual Differences*, 144, 40–55. 
+  * *Optional*
+    + McCain, J. L., Borg, Z. G., Rothenberg, A. H., Churillo, K. M., Weiler, P., & Campbell, W. K. (2016). Personality and selfies: Narcissism and the Dark Triad. *Computers in Human Behavior*, 64, 126–133.
+    + Buckels, E. E., Trapnell, P. D., & Paulhus, D. L. (2014). Trolls just want to have fun. *Personality and Individual Differences*, 67, 97–102. 
+ 
