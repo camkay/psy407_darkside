@@ -56,7 +56,7 @@ Time: 10:15 am to 12:15 pm on Tuesdays.
 
 # Course Description
 
-This course aims to complement existing courses on personality by taking an in-depth look at a number of ostensibly negative personality traits. The first half of the course will be spent exploring Machiavellianism, narcissism, psychopathy, and sadism. We will discuss these traits in terms of their history, structure, measurement, and potential etiology. The second half of the course will be dedicated to examining negative personality traits with respect to personality disorders, criminality, the workplace, morality, and internet behaviours. This course is not intended as a comprehensive review of negative personality traits. Rather, I have chosen papers that I believe provide an accessible introduction to the respective topics. Hopefully, they will inspire you to engage in future self-directed study.  
+This course aims to complement existing courses on personality by taking an in-depth look at a number of aversive personality traits. The first half of the course will be spent exploring Machiavellianism, narcissism, psychopathy, and sadism. We will discuss these traits in terms of their history, structure, measurement, and potential etiology. The second half of the course will be dedicated to examining aversive personality traits with respect to personality disorders, criminality, the workplace, morality, and internet behaviours. This course is not intended as a comprehensive review of aversive personality traits. Rather, I have chosen papers that I believe provide an accessible introduction to the respective topics. Hopefully, they will inspire you to engage in future self-directed study.  
 
 <br />
 
@@ -77,7 +77,7 @@ I've reworked the course format to hopefully make the switch as minimally disrup
 
 # Learning Objectives
 
-* Identify and describe negative personality traits at the level of the concept, construct, and subconstruct.
+* Identify and describe aversive personality traits at the level of the concept, construct, and subconstruct.
 * Explore relations among the traits.
 * Describe a current theory for the presence of these traits in humans.
 * Distinguish between subclinical and clinical variations of these traits.
