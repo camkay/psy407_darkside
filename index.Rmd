@@ -93,7 +93,7 @@ According to federal policy, a single course credit is equivalent to 30 hours of
 
 <br />
 
-# Assignments and Engagement
+# Assignments
 
 | Component                   | Percent of Grade       | Date Due                                                          |
 |-----------------------------|------------------------|-------------------------------------------------------------------|
@@ -205,3 +205,9 @@ Cheating or plagiarism will result in a grade of F for the course, and UO’s st
 ## Land Acknowledgement
 
 We acknowledge that the University of Oregon is situated on Kalapuya Iliʔi---the ancestral territory of the Kalapuya people. As a University, we should honour the traditional stewards of this land and pay respect to the elders, both past and present.
+
+***
+
+<center>
+*Last updated: September 29th, 2020.*
+</center>
